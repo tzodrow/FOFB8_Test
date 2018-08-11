@@ -1,0 +1,321 @@
+Staff_ID,Year,Role,Wins,Losses,Ties,Playoffs,Team
+0,2017,Head Coach,5,11,0,None,0
+1,2017,Offensive Coordinator,5,11,0,None,0
+1,2018,Offensive Coordinator,9,7,0,None,0
+2,2017,Defensive Coordinator,5,11,0,None,0
+2,2018,Defensive Coordinator,9,7,0,None,0
+3,2017,Assistant Coach,5,11,0,None,0
+4,2017,Strength Coordinator,5,11,0,None,0
+4,2018,Strength Coordinator,9,7,0,None,0
+5,2017,Head Coach,8,8,0,None,1
+5,2018,Head Coach,7,9,0,None,1
+6,2017,Offensive Coordinator,8,8,0,None,1
+6,2018,Offensive Coordinator,7,9,0,None,1
+7,2017,Defensive Coordinator,8,8,0,None,1
+7,2018,Defensive Coordinator,7,9,0,None,1
+8,2017,Assistant Coach,8,8,0,None,1
+8,2018,Assistant Coach,7,9,0,None,1
+9,2017,Strength Coordinator,8,8,0,None,1
+10,2017,Head Coach,11,6,0,Division,2
+10,2018,Head Coach,9,7,0,None,2
+11,2017,Offensive Coordinator,11,6,0,Division,2
+12,2017,Defensive Coordinator,11,6,0,Division,2
+12,2018,Head Coach,5,11,0,None,14
+13,2017,Assistant Coach,11,6,0,Division,2
+13,2018,Assistant Coach,9,7,0,None,2
+14,2017,Strength Coordinator,11,6,0,Division,2
+14,2018,Strength Coordinator,9,7,0,None,2
+15,2017,Head Coach,12,7,0,Conference,3
+15,2018,Head Coach,7,9,0,None,3
+16,2017,Offensive Coordinator,12,7,0,Conference,3
+16,2018,Offensive Coordinator,9,7,0,None,2
+17,2017,Defensive Coordinator,12,7,0,Conference,3
+17,2018,Head Coach,6,9,1,None,21
+18,2017,Assistant Coach,12,7,0,Conference,3
+18,2018,Defensive Coordinator,7,9,0,None,3
+19,2017,Strength Coordinator,12,7,0,Conference,3
+19,2018,Strength Coordinator,7,9,0,None,3
+20,2017,Head Coach,10,8,0,Division,4
+20,2018,Head Coach,7,8,1,None,4
+21,2017,Offensive Coordinator,10,8,0,Division,4
+21,2018,Offensive Coordinator,7,8,1,None,4
+22,2017,Defensive Coordinator,10,8,0,Division,4
+23,2017,Assistant Coach,10,8,0,Division,4
+23,2018,Defensive Coordinator,10,7,0,Wild Card,11
+24,2017,Strength Coordinator,10,8,0,Division,4
+24,2018,Strength Coordinator,7,8,1,None,4
+25,2017,Head Coach,5,11,0,None,5
+26,2017,Offensive Coordinator,5,11,0,None,5
+26,2018,Offensive Coordinator,4,12,0,None,5
+27,2017,Defensive Coordinator,5,11,0,None,5
+27,2018,Defensive Coordinator,4,12,0,None,5
+28,2017,Assistant Coach,5,11,0,None,5
+28,2018,Assistant Coach,4,12,0,None,5
+29,2017,Strength Coordinator,5,11,0,None,5
+29,2018,Strength Coordinator,4,12,0,None,5
+30,2017,Head Coach,9,8,0,Wild Card,6
+30,2018,Head Coach,3,13,0,None,6
+31,2017,Offensive Coordinator,9,8,0,Wild Card,6
+31,2018,Head Coach,7,9,0,None,12
+32,2017,Defensive Coordinator,9,8,0,Wild Card,6
+32,2018,Defensive Coordinator,3,13,0,None,6
+33,2017,Assistant Coach,9,8,0,Wild Card,6
+33,2018,Assistant Coach,3,13,0,None,6
+34,2017,Strength Coordinator,9,8,0,Wild Card,6
+34,2018,Strength Coordinator,3,13,0,None,6
+35,2017,Head Coach,8,8,0,None,7
+35,2018,Head Coach,7,9,0,None,7
+36,2017,Offensive Coordinator,8,8,0,None,7
+36,2018,Offensive Coordinator,7,9,0,None,7
+37,2017,Defensive Coordinator,8,8,0,None,7
+37,2018,Defensive Coordinator,7,9,0,None,7
+38,2017,Assistant Coach,8,8,0,None,7
+38,2018,Assistant Coach,7,9,0,None,7
+39,2017,Strength Coordinator,8,8,0,None,7
+39,2018,Strength Coordinator,15,4,0,Champion,13
+40,2017,Head Coach,8,8,0,None,8
+40,2018,Head Coach,9,8,0,Wild Card,8
+41,2017,Offensive Coordinator,8,8,0,None,8
+41,2018,Offensive Coordinator,9,8,0,Wild Card,8
+42,2017,Defensive Coordinator,8,8,0,None,8
+42,2018,Defensive Coordinator,9,8,0,Wild Card,8
+43,2017,Assistant Coach,8,8,0,None,8
+43,2018,Assistant Coach,9,8,0,Wild Card,8
+44,2017,Strength Coordinator,8,8,0,None,8
+45,2017,Head Coach,5,11,0,None,9
+46,2017,Offensive Coordinator,5,11,0,None,9
+47,2017,Defensive Coordinator,5,11,0,None,9
+47,2018,Defensive Coordinator,8,8,0,None,9
+48,2017,Assistant Coach,5,11,0,None,9
+48,2018,Assistant Coach,8,8,0,None,9
+49,2017,Strength Coordinator,5,11,0,None,9
+50,2017,Head Coach,16,3,0,Champion,10
+51,2017,Offensive Coordinator,16,3,0,Champion,10
+52,2017,Defensive Coordinator,16,3,0,Champion,10
+53,2017,Assistant Coach,16,3,0,Champion,10
+54,2017,Strength Coordinator,16,3,0,Champion,10
+54,2018,Strength Coordinator,7,9,0,None,12
+55,2017,Head Coach,8,8,0,None,11
+55,2018,Head Coach,10,7,0,Wild Card,11
+56,2017,Offensive Coordinator,8,8,0,None,11
+56,2018,Offensive Coordinator,10,7,0,Wild Card,11
+57,2017,Defensive Coordinator,8,8,0,None,11
+57,2018,Defensive Coordinator,7,8,1,None,4
+58,2017,Assistant Coach,8,8,0,None,11
+58,2018,Assistant Coach,10,7,0,Wild Card,11
+59,2017,Strength Coordinator,8,8,0,None,11
+59,2018,Strength Coordinator,10,7,0,Wild Card,11
+60,2017,Head Coach,6,9,1,None,12
+61,2017,Offensive Coordinator,6,9,1,None,12
+61,2018,Offensive Coordinator,7,9,0,None,12
+62,2017,Defensive Coordinator,6,9,1,None,12
+62,2018,Defensive Coordinator,7,9,0,None,12
+63,2017,Assistant Coach,6,9,1,None,12
+63,2018,Assistant Coach,7,9,0,None,12
+64,2017,Strength Coordinator,6,9,1,None,12
+64,2018,Strength Coordinator,10,8,0,Division,29
+65,2017,Head Coach,14,5,0,Won Conference,13
+65,2018,Head Coach,15,4,0,Champion,13
+66,2017,Offensive Coordinator,14,5,0,Won Conference,13
+66,2018,Offensive Coordinator,15,4,0,Champion,13
+67,2017,Defensive Coordinator,14,5,0,Won Conference,13
+67,2018,Head Coach,4,12,0,None,5
+68,2017,Assistant Coach,14,5,0,Won Conference,13
+68,2018,Assistant Coach,15,4,0,Champion,13
+69,2017,Strength Coordinator,14,5,0,Won Conference,13
+70,2017,Head Coach,4,12,0,None,14
+71,2017,Offensive Coordinator,4,12,0,None,14
+71,2018,Offensive Coordinator,5,11,0,None,14
+72,2017,Defensive Coordinator,4,12,0,None,14
+72,2018,Defensive Coordinator,5,11,0,None,14
+73,2017,Assistant Coach,4,12,0,None,14
+73,2018,Assistant Coach,5,11,0,None,14
+74,2017,Strength Coordinator,4,12,0,None,14
+74,2018,Strength Coordinator,5,11,0,None,14
+75,2017,Head Coach,8,8,0,None,15
+76,2017,Offensive Coordinator,8,8,0,None,15
+76,2018,Offensive Coordinator,12,7,0,Conference,15
+77,2017,Defensive Coordinator,8,8,0,None,15
+77,2018,Defensive Coordinator,12,7,0,Conference,15
+78,2017,Assistant Coach,8,8,0,None,15
+78,2018,Assistant Coach,12,7,0,Conference,15
+79,2017,Strength Coordinator,8,8,0,None,15
+80,2017,Head Coach,8,7,1,None,16
+80,2018,Head Coach,9,9,0,Division,16
+81,2017,Offensive Coordinator,8,7,1,None,16
+81,2018,Offensive Coordinator,9,9,0,Division,16
+82,2017,Defensive Coordinator,8,7,1,None,16
+82,2018,Defensive Coordinator,9,9,0,Division,16
+83,2017,Assistant Coach,8,7,1,None,16
+83,2018,Assistant Coach,9,9,0,Division,16
+84,2017,Strength Coordinator,8,7,1,None,16
+84,2018,Strength Coordinator,9,9,0,Division,16
+85,2017,Head Coach,10,7,0,Wild Card,17
+85,2018,Head Coach,11,6,0,Division,17
+86,2017,Offensive Coordinator,10,7,0,Wild Card,17
+86,2018,Offensive Coordinator,11,6,0,Division,17
+87,2017,Defensive Coordinator,10,7,0,Wild Card,17
+87,2018,Defensive Coordinator,11,6,0,Division,17
+88,2017,Assistant Coach,10,7,0,Wild Card,17
+88,2018,Head Coach,9,7,0,None,0
+89,2017,Strength Coordinator,10,7,0,Wild Card,17
+90,2017,Head Coach,12,5,0,Wild Card,18
+90,2018,Head Coach,7,9,0,None,18
+91,2017,Offensive Coordinator,12,5,0,Wild Card,18
+91,2018,Offensive Coordinator,7,9,0,None,18
+92,2017,Defensive Coordinator,12,5,0,Wild Card,18
+92,2018,Defensive Coordinator,7,9,0,None,18
+93,2017,Assistant Coach,12,5,0,Wild Card,18
+94,2017,Strength Coordinator,12,5,0,Wild Card,18
+94,2018,Strength Coordinator,7,9,0,None,18
+95,2017,Head Coach,7,9,0,None,19
+95,2018,Head Coach,4,12,0,None,19
+96,2017,Offensive Coordinator,7,9,0,None,19
+97,2017,Defensive Coordinator,7,9,0,None,19
+97,2018,Defensive Coordinator,4,12,0,None,19
+98,2017,Assistant Coach,7,9,0,None,19
+98,2018,Assistant Coach,4,12,0,None,19
+99,2017,Strength Coordinator,7,9,0,None,19
+99,2018,Strength Coordinator,4,12,0,None,19
+100,2017,Head Coach,11,7,0,Division,20
+101,2017,Offensive Coordinator,11,7,0,Division,20
+101,2018,Offensive Coordinator,5,11,0,None,20
+102,2017,Defensive Coordinator,11,7,0,Division,20
+102,2018,Defensive Coordinator,5,11,0,None,20
+103,2017,Assistant Coach,11,7,0,Division,20
+103,2018,Assistant Coach,5,11,0,None,20
+104,2017,Strength Coordinator,11,7,0,Division,20
+104,2018,Strength Coordinator,7,9,0,None,1
+105,2017,Head Coach,6,10,0,None,21
+106,2017,Offensive Coordinator,6,10,0,None,21
+106,2018,Offensive Coordinator,6,9,1,None,21
+107,2017,Defensive Coordinator,6,10,0,None,21
+107,2018,Defensive Coordinator,6,9,1,None,21
+108,2017,Assistant Coach,6,10,0,None,21
+108,2018,Assistant Coach,6,9,1,None,21
+109,2017,Strength Coordinator,6,10,0,None,21
+110,2017,Head Coach,4,12,0,None,22
+111,2017,Offensive Coordinator,4,12,0,None,22
+111,2018,Offensive Coordinator,13,5,0,Division,22
+112,2017,Defensive Coordinator,4,12,0,None,22
+112,2018,Defensive Coordinator,13,5,0,Division,22
+113,2017,Assistant Coach,4,12,0,None,22
+113,2018,Assistant Coach,13,5,0,Division,22
+114,2017,Strength Coordinator,4,12,0,None,22
+114,2018,Strength Coordinator,13,5,0,Division,22
+115,2017,Head Coach,5,11,0,None,23
+115,2018,Head Coach,5,11,0,None,23
+116,2017,Offensive Coordinator,5,11,0,None,23
+116,2018,Offensive Coordinator,5,11,0,None,23
+117,2017,Defensive Coordinator,5,11,0,None,23
+117,2018,Defensive Coordinator,5,11,0,None,23
+118,2017,Assistant Coach,5,11,0,None,23
+118,2018,Assistant Coach,5,11,0,None,23
+119,2017,Strength Coordinator,5,11,0,None,23
+119,2018,Strength Coordinator,5,11,0,None,23
+120,2017,Head Coach,12,6,0,Division,24
+120,2018,Head Coach,11,6,0,Wild Card,24
+121,2017,Offensive Coordinator,12,6,0,Division,24
+121,2018,Offensive Coordinator,11,6,0,Wild Card,24
+122,2017,Defensive Coordinator,12,6,0,Division,24
+122,2018,Defensive Coordinator,11,6,0,Wild Card,24
+123,2017,Assistant Coach,12,6,0,Division,24
+123,2018,Assistant Coach,11,6,0,Wild Card,24
+124,2017,Strength Coordinator,12,6,0,Division,24
+124,2018,Strength Coordinator,11,6,0,Wild Card,24
+125,2017,Head Coach,5,11,0,None,25
+125,2018,Head Coach,5,11,0,None,25
+126,2017,Offensive Coordinator,5,11,0,None,25
+126,2018,Offensive Coordinator,5,11,0,None,25
+127,2017,Defensive Coordinator,5,11,0,None,25
+128,2017,Assistant Coach,5,11,0,None,25
+128,2018,Assistant Coach,5,11,0,None,25
+129,2017,Strength Coordinator,5,11,0,None,25
+130,2017,Head Coach,13,4,1,Conference,26
+130,2018,Head Coach,14,5,0,Won Conference,26
+131,2017,Offensive Coordinator,13,4,1,Conference,26
+131,2018,Offensive Coordinator,14,5,0,Won Conference,26
+132,2017,Defensive Coordinator,13,4,1,Conference,26
+132,2018,Defensive Coordinator,14,5,0,Won Conference,26
+133,2017,Assistant Coach,13,4,1,Conference,26
+133,2018,Assistant Coach,14,5,0,Won Conference,26
+134,2017,Strength Coordinator,13,4,1,Conference,26
+135,2017,Head Coach,7,9,0,None,27
+135,2018,Head Coach,9,7,0,None,27
+136,2017,Offensive Coordinator,7,9,0,None,27
+136,2018,Offensive Coordinator,9,7,0,None,27
+137,2017,Defensive Coordinator,7,9,0,None,27
+137,2018,Defensive Coordinator,9,7,0,None,27
+138,2017,Assistant Coach,7,9,0,None,27
+138,2018,Assistant Coach,9,7,0,None,27
+139,2017,Strength Coordinator,7,9,0,None,27
+139,2018,Strength Coordinator,9,7,0,None,27
+140,2017,Head Coach,8,8,0,None,28
+140,2018,Head Coach,15,3,0,Conference,28
+141,2017,Offensive Coordinator,8,8,0,None,28
+141,2018,Offensive Coordinator,15,3,0,Conference,28
+142,2017,Defensive Coordinator,8,8,0,None,28
+142,2018,Defensive Coordinator,15,3,0,Conference,28
+143,2017,Assistant Coach,8,8,0,None,28
+143,2018,Assistant Coach,15,3,0,Conference,28
+144,2017,Strength Coordinator,8,8,0,None,28
+145,2017,Head Coach,7,9,0,None,29
+146,2017,Offensive Coordinator,7,9,0,None,29
+146,2018,Offensive Coordinator,10,8,0,Division,29
+147,2017,Defensive Coordinator,7,9,0,None,29
+147,2018,Defensive Coordinator,10,8,0,Division,29
+148,2017,Assistant Coach,7,9,0,None,29
+148,2018,Assistant Coach,10,8,0,Division,29
+149,2017,Strength Coordinator,7,9,0,None,29
+150,2017,Head Coach,4,12,0,None,30
+150,2018,Head Coach,7,9,0,None,30
+151,2017,Offensive Coordinator,4,12,0,None,30
+151,2018,Offensive Coordinator,7,9,0,None,30
+152,2017,Defensive Coordinator,4,12,0,None,30
+152,2018,Defensive Coordinator,7,9,0,None,30
+153,2017,Assistant Coach,4,12,0,None,30
+153,2018,Assistant Coach,7,9,0,None,30
+154,2017,Strength Coordinator,4,12,0,None,30
+154,2018,Strength Coordinator,7,9,0,None,30
+155,2017,Head Coach,9,7,1,Wild Card,31
+155,2018,Head Coach,6,10,0,None,31
+156,2017,Offensive Coordinator,9,7,1,Wild Card,31
+156,2018,Offensive Coordinator,6,10,0,None,31
+157,2017,Defensive Coordinator,9,7,1,Wild Card,31
+158,2017,Assistant Coach,9,7,1,Wild Card,31
+158,2018,Assistant Coach,6,10,0,None,31
+159,2017,Strength Coordinator,9,7,1,Wild Card,31
+159,2018,Strength Coordinator,6,10,0,None,31
+160,2018,Strength Coordinator,8,8,0,None,9
+164,2018,Defensive Coordinator,6,10,0,None,31
+167,2018,Assistant Coach,10,7,0,Wild Card,10
+176,2018,Assistant Coach,7,9,0,None,18
+180,2018,Head Coach,5,11,0,None,20
+181,2018,Assistant Coach,9,7,0,None,0
+185,2018,Head Coach,12,7,0,Conference,15
+186,2018,Defensive Coordinator,9,7,0,None,2
+187,2018,Strength Coordinator,5,11,0,None,25
+188,2018,Defensive Coordinator,10,7,0,Wild Card,10
+202,2018,Strength Coordinator,10,7,0,Wild Card,10
+207,2018,Strength Coordinator,15,3,0,Conference,28
+212,2018,Assistant Coach,7,8,1,None,4
+219,2018,Strength Coordinator,12,7,0,Conference,15
+224,2018,Offensive Coordinator,10,7,0,Wild Card,10
+225,2018,Strength Coordinator,9,8,0,Wild Card,8
+228,2018,Head Coach,10,7,0,Wild Card,10
+237,2018,Strength Coordinator,7,9,0,None,7
+242,2018,Assistant Coach,11,6,0,Division,17
+245,2018,Strength Coordinator,5,11,0,None,20
+246,2018,Strength Coordinator,14,5,0,Won Conference,26
+247,2018,Defensive Coordinator,15,4,0,Champion,13
+248,2018,Head Coach,10,8,0,Division,29
+254,2018,Assistant Coach,7,9,0,None,3
+256,2018,Offensive Coordinator,4,12,0,None,19
+260,2018,Head Coach,13,5,0,Division,22
+269,2018,Offensive Coordinator,8,8,0,None,9
+272,2018,Offensive Coordinator,7,9,0,None,3
+273,2018,Defensive Coordinator,5,11,0,None,25
+280,2018,Head Coach,8,8,0,None,9
+281,2018,Offensive Coordinator,3,13,0,None,6
+288,2018,Strength Coordinator,11,6,0,Division,17
+289,2018,Strength Coordinator,6,9,1,None,21

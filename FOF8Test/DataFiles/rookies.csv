@@ -1,0 +1,814 @@
+Player_ID,Last_Name,First_Name,Position_Group,College,Height,Weight,Dash,Solecismic,Strength,Agility,Jump,Position_Specific,Developed,Grade
+3980,Cobb,Lorenzo,QB,Texas,74,219,501,45,13,744,105,76,17,52
+3981,Corriveau,Terrell,QB,Tulsa,74,220,464,53,20,717,112,83,39,81
+3982,Perez,Dominic,QB,Fort Lewis,74,226,497,36,7,747,107,76,28,50
+3983,Long,Norm,QB,Florida,73,213,465,21,9,828,102,59,34,33
+3984,Bernius,Richie,QB,Kent State,74,221,0,20,0,0,0,0,17,50
+3985,Butler,Josh,QB,Air Force,73,216,504,26,8,815,105,81,13,39
+3986,Lopez,Aiden,QB,Wyoming,72,210,474,28,10,780,109,71,41,57
+3987,Gomez,Jonah,QB,Nevada - Las Vegas,73,208,494,41,9,751,107,51,38,41
+3988,Harvey,Spencer,QB,Tennessee,71,203,504,28,6,780,107,71,36,35
+3989,Sheldon,Gene,QB,Arizona,72,204,463,30,8,740,103,74,17,43
+3990,Fulton,Cameron,QB,Arizona,74,212,470,34,15,772,94,70,20,52
+3991,Solorio,Lorenzo,QB,Auburn,76,222,480,40,10,819,107,96,7,52
+3992,Brinkow,Gregory,QB,Mississippi,74,222,491,18,9,780,91,71,34,33
+3993,Schmidgall,Eduardo,QB,Notre Dame,74,218,478,31,7,752,109,72,26,42
+3994,Fikarski,Desmond,QB,Temple,73,206,456,23,7,805,108,64,25,40
+3995,Horie,Salvador,QB,UCLA,76,234,470,26,8,780,103,97,31,39
+3996,Kleinman,Clarence,QB,Wake Forest,75,237,460,26,7,773,105,64,36,36
+3997,Whiteside,J.B.,QB,Duke,74,219,484,28,9,795,107,82,4,47
+3998,Walters,Edmond,QB,San Jose State,70,219,490,21,6,817,98,89,10,26
+3999,Richardson,Shaun,QB,UCLA,72,219,504,33,8,782,103,63,42,44
+4000,Rodriguez,Sammy,QB,Utah,74,217,473,24,10,769,98,50,22,37
+4001,Maloney,Clay,QB,Rutgers,73,215,463,29,10,774,102,74,35,44
+4002,Stone,Josh,QB,Duke,73,211,484,19,9,837,101,53,1,21
+4003,Jennings,Theodore,QB,Furman,75,219,456,22,9,754,103,76,9,34
+4004,Dawson,Marlon,QB,Boston College,71,211,478,22,7,780,108,75,31,35
+4005,Booker,Moe,QB,Clemson,72,214,497,30,11,807,100,74,20,46
+4006,Russell,Jackie,QB,Auburn,70,215,481,16,7,813,106,69,14,28
+4007,Hammond,Brendan,QB,Florida,73,208,473,34,11,780,108,81,27,52
+4008,Reynolds,Tyrus,QB,Wisconsin,72,219,473,15,8,794,98,69,33,31
+4009,Kristosik,Damon,QB,Montana State,76,228,462,36,12,761,107,78,37,60
+4010,Allen,Walt,QB,Cincinnati,75,229,464,35,9,771,109,77,23,54
+4011,Blades,Ben,QB,Texas A&M,76,231,473,23,7,810,98,77,15,34
+4012,Schultz,Conrad,QB,San Jose State,74,219,484,19,6,826,106,61,11,23
+4013,Price,Devon,QB,Colorado State,75,232,467,25,7,748,110,76,35,48
+4014,Rollins,Demetrius,QB,Baylor,74,221,515,29,6,780,106,67,6,32
+4015,Berube,Dillon,QB,California,73,211,0,36,0,0,0,77,1,49
+4016,Johnson,Jeffrey,QB,South Carolina,75,231,485,30,14,793,114,74,12,50
+4017,Hardy,Samuel,QB,Wisconsin,74,219,479,20,6,789,107,83,22,41
+4018,Reichardt,Geoff,QB,Auburn,71,208,491,28,10,822,92,74,10,41
+4019,Legge,Kendall,QB,Boston College,73,210,461,28,11,806,106,87,22,48
+4020,Humphries,Deon,QB,Wisconsin,73,203,479,30,10,773,91,75,20,36
+4021,Prescott,Kaleb,QB,Indiana,72,203,489,38,12,753,101,53,34,52
+4022,Ickes,Justics,QB,Minnesota,78,233,474,30,10,776,93,75,15,40
+4023,Clinton,Mason,QB,Ferris State,73,211,449,32,9,763,102,75,6,42
+4024,Stevenson,Travis,QB,California  Pa.,75,223,465,31,7,810,105,69,43,41
+4025,Ford,Irv,QB,Kansas,77,225,506,24,7,827,107,69,11,28
+4026,Dotson,Roger,QB,North Carolina,71,205,468,36,16,810,104,77,37,56
+4027,Aleman,Emmanuel,QB,Arkansas,73,211,457,39,9,729,108,78,11,52
+4028,Starks,Emmanuel,QB,South Carolina,77,231,468,30,12,780,94,80,46,50
+4029,Tyler,Darrell,QB,Wisconsin,72,211,484,15,8,832,95,50,19,19
+4030,Kipps,Donovan,QB,Minnesota,74,216,488,28,9,801,107,63,31,36
+4031,Blanks,Joshua,QB,Wagner,73,211,466,40,12,755,103,78,1,59
+4032,McKenna,Jerald,QB,Utah,73,211,506,28,6,780,96,68,15,31
+4033,Marsh,Wally,QB,Kansas State,74,219,484,17,10,803,90,72,17,32
+4034,Webster,Grayson,QB,Texas,74,219,482,36,13,791,104,90,4,55
+4035,Lincoln,Freddie,QB,California,74,216,470,24,12,786,107,54,44,47
+4036,Kirk,Bruce,QB,The Citadel,73,211,470,25,10,761,98,70,1,41
+4037,Wischhof,Gabe,QB,Kentucky,73,210,474,13,6,780,98,78,28,29
+4038,Farley,Julio,QB,Southeast Missouri St.,70,207,511,16,10,780,90,68,27,34
+4039,Magallanes,Devan,RB,Nebraska,69,205,469,27,20,705,121,30,37,47
+4040,Crigger,Myron,RB,Wayne State (Neb.),71,222,464,31,21,735,116,32,31,52
+4041,Landon,Rex,RB,Duke,69,199,451,21,17,726,122,20,39,47
+4042,Mathews,Lionel,RB,La Salle,69,207,453,24,20,727,125,29,26,51
+4043,Gramble,Alexis,RB,Arkansas Tech,72,236,454,24,15,723,123,25,33,53
+4044,Keister,Tanner,RB,Oklahoma,70,206,453,16,14,745,109,11,46,38
+4045,Harper,Jim,RB,Temple,70,203,455,32,17,718,122,31,21,55
+4046,Pagan,Daniel,RB,Oregon,71,217,479,21,18,714,120,20,30,44
+4047,Voorhees,Antoine,RB,Texas - El Paso,71,211,479,18,15,763,109,9,45,35
+4048,Derhammer,Percy,RB,Arizona State,73,234,465,11,15,753,111,6,30,26
+4049,Brookins,Asher,RB,Kentucky,69,204,484,12,13,735,115,20,64,39
+4050,Smith,Karl,RB,Wagner,71,218,465,27,13,742,118,21,52,52
+4051,Hamilton,Christian,RB,Northwestern,71,224,449,24,19,712,113,32,32,38
+4052,Tirtha,Bradley,RB,Virginia,67,216,465,28,15,714,114,32,50,48
+4053,Terry,Bucky,RB,Morehead State,73,221,456,29,26,713,127,26,30,58
+4054,Winters,Shaun,RB,Towson,71,217,465,19,15,750,119,16,35,34
+4055,Graham,Larry,RB,Virginia,70,213,458,22,15,728,118,15,53,48
+4056,Hammond,Wade,RB,Washington State,70,207,448,35,21,699,123,25,63,75
+4057,Matesky,Noah,RB,Nebraska,68,200,459,26,16,735,116,24,32,49
+4058,Eddins,Damien,RB,Alabama,68,213,460,19,15,728,113,32,64,55
+4059,Aponte,Conner,RB,South Carolina,71,217,453,23,15,722,116,12,24,39
+4060,Tuttle,Caden,RB,Texas Christian,70,212,469,17,15,735,113,12,25,36
+4061,Carrington,Morris,RB,Kansas State,72,225,460,12,18,723,121,24,46,46
+4062,Eide,Tanner,RB,Kansas State,73,225,467,32,21,724,119,28,33,56
+4063,Porter,Devin,RB,Air Force,71,217,467,18,15,735,120,20,30,44
+4064,Forbes,Derrick,RB,Akron,68,214,460,23,14,743,117,33,36,42
+4065,Russell,Roman,RB,Cornell,71,216,471,17,15,743,110,19,52,43
+4066,Gomez,Duane,RB,Tennessee,71,217,470,27,14,713,118,25,30,53
+4067,Sprincz,Brady,RB,Howard,70,210,473,8,9,779,113,11,36,18
+4068,Rubin,Jorge,RB,Miami  Florida,70,202,482,33,15,719,118,34,43,42
+4069,Hickman,Xavier,RB,North Carolina,70,205,464,12,13,752,114,18,23,29
+4070,George,D.J.,RB,Purdue,71,219,477,24,12,752,109,18,73,49
+4071,Sierra,Heath,RB,Rutgers,70,205,476,30,11,751,115,14,23,40
+4072,Huffman,Adrian,RB,Indiana,68,208,460,16,12,721,114,22,51,47
+4073,Linquist,Derek,RB,SE Oklahoma St.,68,206,482,25,18,727,114,13,56,51
+4074,Drake,Edgar,RB,Georgia Tech,71,218,456,21,15,704,121,7,47,44
+4075,Mansker,Lester,RB,Marist,70,207,476,16,15,735,119,26,63,46
+4076,Middleton,Mercury,RB,Rhode Island,70,207,454,19,15,735,120,24,63,59
+4077,Biru,Devon,RB,Colorado,73,233,459,13,15,729,122,8,52,38
+4078,Washecheck,Devonte,RB,Southern California,67,202,455,9,13,735,116,9,41,32
+4079,Bennett,Burt,RB,Michigan,71,219,469,28,15,735,122,14,58,44
+4080,Quinn,Wyatt,RB,Oklahoma,72,219,462,19,16,726,115,17,61,47
+4081,Yepremian,Caiden,RB,Houston,72,227,473,23,16,713,119,18,41,53
+4082,Abbott,Joshua,RB,Iowa,74,216,454,18,20,708,130,23,61,53
+4083,Morrison,Dean,RB,New Mexico,70,208,454,31,22,714,125,33,41,67
+4084,Burks,Cesar,RB,Oregon State,74,229,465,24,20,735,125,13,63,59
+4085,Whalen,Darrin,RB,Virginia,72,228,0,18,0,0,0,30,47,40
+4086,West,Van,RB,Georgia Tech,69,215,478,18,11,733,119,7,56,42
+4087,Hawkins,David,RB,Auburn,67,211,472,21,15,728,122,18,43,44
+4088,Meraz,Amari,RB,Ohio State,71,215,475,26,15,749,111,21,35,41
+4089,Ringo,Joey,RB,Bethune Cookman,71,216,456,19,12,725,114,20,52,49
+4090,Jones,Patrick,RB,Auburn,67,213,465,18,11,771,115,20,33,35
+4091,Nichols,Bennett,RB,Stanford,71,216,457,17,17,722,116,15,52,51
+4092,Diaz,Will,RB,Fresno State,72,233,0,22,0,0,0,16,60,56
+4093,Chin,J.J.,RB,Villanova,70,214,474,22,16,725,123,19,59,56
+4094,Sanford,Vince,RB,Texas,75,232,484,18,11,756,112,19,52,32
+4095,Peters,Marshall,RB,Texas Tech,71,222,450,22,15,731,105,13,31,40
+4096,Tackett,Dale,RB,Fairfield,70,209,470,23,14,731,115,20,63,49
+4097,Bruce,Mo,FB,New Mexico,72,243,0,24,0,0,0,25,25,23
+4098,Hampton,Marquis,FB,Dartmouth,69,224,484,19,17,750,96,19,43,25
+4099,Benson,Connor,FB,Virginia Tech,68,241,490,19,17,745,102,25,23,26
+4100,Evans,Ralph,FB,Tennessee,72,241,473,24,17,744,107,13,30,31
+4101,Duffy,Richie,FB,McNeese State,72,247,478,17,18,754,106,18,63,33
+4102,Heft,Ray,FB,Virginia Tech,71,233,473,34,26,726,114,36,24,46
+4103,Reeves,Kenny,FB,Iowa,67,230,466,33,24,763,111,35,39,44
+4104,Mitchell,Mason,FB,West Georgia,72,247,489,19,19,739,108,18,54,36
+4105,Evans,David,FB,Alcorn State,76,252,472,18,18,774,106,29,29,28
+4106,Crane,Gary,FB,Colorado,70,223,478,15,20,744,104,17,52,28
+4107,Lyle,Robert,FB,Indiana,71,223,479,28,24,714,105,37,38,41
+4108,Rupp,Brady,FB,Oregon,72,240,464,30,17,789,100,24,52,33
+4109,Kois,Johnny,FB,Georgia,71,233,477,22,20,785,102,23,19,23
+4110,McCain,Mackenzie,FB,UCLA,70,233,478,13,23,733,105,17,27,24
+4111,Saba,Alvin,FB,Virginia Tech,74,248,486,13,20,778,102,12,55,25
+4112,Bernstein,Richard,FB,Tennessee,72,243,482,14,21,746,102,20,19,25
+4113,Fazande,Brandon,FB,Grambling State,72,253,488,24,26,752,107,25,33,33
+4114,Massicott,Zack,FB,Notre Dame,70,235,0,16,0,0,0,19,9,21
+4115,Ginn,Casey,FB,Sacramento State,70,233,475,16,25,746,112,15,27,33
+4116,Budke,Corbin,FB,Stanford,72,243,479,25,18,780,103,9,25,23
+4117,Sanaee,Tanner,FB,Ohio State,71,235,479,26,20,732,112,31,47,37
+4118,Carlisle,Keith,FB,Oregon,71,235,465,31,28,729,113,42,58,48
+4119,Carpenter,Allen,FB,Louisville,70,229,475,20,21,743,109,18,31,28
+4120,Lowman,Tevin,FB,Temple,72,243,475,22,21,768,110,20,19,29
+4121,Lane,Levi,FB,Mississippi,72,251,478,21,15,760,90,28,44,27
+4122,Bell,Tom,FB,Western Carolina,72,240,490,27,22,768,107,24,57,37
+4123,Gibson,Landen,FB,Mississippi State,71,237,478,20,20,760,105,24,48,36
+4124,Burtnett,Christopher,FB,Temple,69,242,479,25,17,741,99,36,37,33
+4125,Duran,Dixon,FB,Southeast Missouri St.,75,257,489,20,21,756,104,24,49,36
+4126,Brandon,Howard,FB,Oregon State,70,243,478,18,22,761,97,21,41,27
+4127,Bissett,Collin,FB,Georgia,72,238,472,19,23,747,102,8,57,30
+4128,Lyle,Jacob,FB,Michigan,71,234,0,18,0,0,0,25,36,25
+4129,Crownover,Enrique,FB,Kentucky,68,233,471,33,27,780,106,28,43,43
+4130,Clemons,Trent,FB,Texas Christian,73,261,479,24,20,758,103,22,44,28
+4131,Agin,Chad,FB,Tennessee,72,243,478,21,20,759,103,22,30,29
+4132,Meadows,Jermaine,TE,Georgia Tech,74,253,466,34,26,798,99,43,19,35
+4133,Giannetti,Xavier,TE,Alabama - Birmingham,75,242,488,24,19,781,102,41,19,29
+4134,Harris,Jerald,LS,Portland State,75,249,498,13,15,846,91,7,27,8
+4135,Bonnette,Dave,LS,Miami  Ohio,74,245,496,16,15,850,94,9,50,14
+4136,Ahn,Darryl,TE,Murray State,75,240,474,19,27,738,117,37,30,44
+4137,Farrell,Alexis,TE,Southern Mississippi,79,259,478,25,15,767,102,40,57,39
+4138,Murphree,Keegan,TE,West Virginia,72,237,466,35,29,753,117,47,42,55
+4139,Whetstone,Eduardo,TE,Auburn,79,255,495,17,28,828,100,16,67,32
+4140,Treftz,Doug,TE,Oregon,75,245,500,18,19,837,105,29,37,26
+4141,Haynesworth,Wes,TE,Stony Brook,75,242,475,21,24,775,104,39,19,33
+4142,Ferich,Maurice,TE,Florida State,76,256,493,32,23,819,108,53,15,38
+4143,Sisson,Pat,TE,Louisiana State,76,264,473,21,17,835,96,42,40,29
+4144,Griese,Giovanni,TE,Vanderbilt,79,277,469,21,29,755,102,20,36,37
+4145,Torres,Santiago,LS,Georgia,76,259,500,19,15,850,95,8,38,22
+4146,Lyons,Howie,TE,Notre Dame,78,276,486,32,28,850,108,42,38,42
+4147,Foreman,Dillon,TE,Auburn,75,247,477,24,26,763,96,15,37,32
+4148,Martinez,Wally,LS,Texas,76,266,499,21,15,833,96,15,22,13
+4149,Freeman,Bo,TE,Brown,76,255,486,29,26,803,101,36,37,32
+4150,Tate,Mike,TE,Washington State,75,246,484,23,19,764,102,40,59,36
+4151,Petherick,Jay,LS,West Virginia,74,235,500,15,15,850,93,10,31,20
+4152,Stewart,Glen,LS,South Carolina,75,252,497,16,16,850,97,11,33,13
+4153,Clinton,Jamie,TE,Louisiana State,76,249,485,27,26,752,102,39,52,41
+4154,Clancy,Trevor,TE,Auburn,80,255,492,30,30,763,98,35,44,36
+4155,Henry,Desmond,TE,Michigan,75,246,499,15,26,816,102,33,41,28
+4156,McDaniel,Duane,TE,Elon College,77,267,481,21,30,738,117,19,44,37
+4157,Hawkins,Adam,TE,Arizona,76,254,478,21,15,768,108,33,31,30
+4158,Gadget,Jaylen,TE,Bowling Green,76,259,485,36,24,775,107,48,38,45
+4159,Patterson,Dylan,TE,Louisiana State,71,246,477,26,23,744,113,14,52,42
+4160,Jacoby,Terrence,TE,Southern Mississippi,73,247,469,32,28,742,116,29,57,39
+4161,Doyle,Cameron,LS,California,71,238,500,13,15,850,94,7,33,20
+4162,Whitlow,Mitch,TE,Mississippi State,75,243,486,27,26,806,111,37,36,39
+4163,Rossini,Jacob,TE,North Carolina,75,245,496,20,20,829,93,34,31,22
+4164,Hiscock,Leland,TE,Central Florida,77,270,475,25,18,758,92,12,50,30
+4165,Hollis,Tre,TE,Fordham,76,256,478,10,15,769,96,18,21,14
+4166,Mayes,Mario,TE,Auburn,73,257,471,19,24,774,103,36,17,28
+4167,Barrett,Robbie,TE,Valdosta State,76,261,485,22,22,850,103,32,22,26
+4168,Emanuel,Scottie,TE,Colorado State,79,272,473,21,19,739,106,39,29,36
+4169,Hutchins,Horace,TE,Georgia Tech,75,242,478,26,21,761,97,39,19,32
+4170,Donaldson,Colby,TE,Stanford,76,255,481,33,23,801,104,40,37,39
+4171,Harmon,Vincent,TE,Fordham,77,269,472,26,29,850,106,32,44,37
+4172,Obetts,Larry,TE,Oregon,75,240,493,27,15,835,98,37,24,22
+4173,Kirk,Clyde,TE,Jacksonville State,78,255,478,33,30,738,111,52,21,45
+4174,Hopper,Harold,TE,Penn State,76,247,478,22,29,762,116,19,24,36
+4175,Huntley,Dominic,LS,Hawaii,74,241,500,10,15,850,95,8,55,26
+4176,Titus,Gage,TE,Duke,79,269,488,25,28,751,105,42,28,38
+4177,Parker,Avery,TE,Wisconsin,76,252,483,27,28,762,103,41,31,38
+4178,Elrod,Francisco,WR,Texas Tech,71,190,446,16,14,730,109,42,26,42
+4179,Rodgers,Luis,WR,South Carolina,72,200,444,14,10,703,102,43,21,36
+4180,Hatcher,Rob,WR,Penn State,71,190,443,30,13,720,109,57,21,39
+4181,Harmon,Archie,WR,Georgia Tech,71,186,443,22,7,723,117,52,18,48
+4182,Sampson,Tito,WR,Duke,74,210,446,20,14,705,104,42,25,38
+4183,Bradley,Skip,WR,Northwestern,70,189,0,15,0,0,0,0,12,18
+4184,Van Pelt,Curtis,WR,San Jose State,72,195,446,27,13,703,103,62,20,52
+4185,Fernyhough,Rufus,WR,Colorado State,75,206,471,24,11,720,115,39,21,34
+4186,Messerly,Byron,WR,San Diego State,69,183,471,12,5,740,106,45,40,28
+4187,Bivens,Everett,WR,Cincinnati,72,194,444,16,7,749,113,44,47,38
+4188,Burroughs,Rodney,WR,Kansas State,72,196,470,14,13,736,114,20,37,28
+4189,Rainwater,Hugh,WR,Houston,71,193,451,27,13,704,108,52,27,43
+4190,Hennings,Harvey,WR,Florida,68,192,450,23,7,685,102,45,45,42
+4191,Galloway,Jorge,WR,Mississippi State,71,197,448,24,9,702,108,33,28,40
+4192,Reilly,Frederick,WR,Oklahoma State,70,186,441,31,13,675,120,63,33,65
+4193,Kreuser,Emmett,WR,Notre Dame,71,187,451,21,14,698,106,49,48,46
+4194,Bjornson,Joel,WR,Nebraska,74,199,444,12,13,689,115,34,20,42
+4195,Tubbs,Bobby,WR,Tennessee,74,205,441,26,15,699,107,48,18,44
+4196,Sanders,Damien,WR,Louisiana - Monroe,72,196,0,18,0,0,0,0,42,42
+4197,Ingram,Pat,WR,Florida State,72,195,448,10,8,716,103,24,14,28
+4198,Davison,Harvey,WR,Michigan State,70,186,455,23,6,724,112,44,39,37
+4199,Watson,Broderick,WR,Washington State,72,198,449,8,12,714,103,44,37,38
+4200,Moulds,Teddy,WR,Georgia,74,206,458,20,15,720,106,59,22,42
+4201,Connell,Russell,WR,Auburn,67,187,449,23,10,713,105,40,41,46
+4202,Austen,Bob,WR,Southern Methodist,72,197,456,28,9,738,107,38,20,28
+4203,Lehman,C.J.,WR,Washington State,71,189,464,16,11,710,107,53,37,38
+4204,Meyer,Johnnie,WR,Idaho,69,193,442,18,16,692,108,45,43,54
+4205,Clinton,Jackie,WR,Oregon,71,195,441,33,15,682,106,53,22,63
+4206,Newhart,Ron,WR,Tuskegee,73,208,438,33,6,690,111,60,32,56
+4207,Rhodes,Bryant,WR,Eastern Illinois,73,206,443,28,11,720,108,40,52,50
+4208,Kramer,Owen,WR,Hawaii,70,187,449,25,10,756,102,44,22,37
+4209,Cassaday,Rodney,WR,Arizona State,70,195,441,14,11,718,103,34,41,45
+4210,Gaylor,Quinn,WR,Oklahoma State,72,200,440,33,10,744,118,66,21,56
+4211,Hermann,Donald,WR,Indiana,68,192,479,11,8,756,108,44,34,21
+4212,Bontrager,Eli,WR,Georgia,72,196,445,30,16,743,108,50,37,42
+4213,Reeves,Clifton,WR,Minnesota,71,189,453,26,7,702,120,49,43,46
+4214,Oelschlager,Marty,WR,San Diego State,68,186,437,34,7,672,110,51,16,45
+4215,Arnold,Larry,WR,Buffalo,69,189,444,22,10,716,102,32,14,36
+4216,Garrison,Butch,WR,Clemson,72,198,454,29,7,697,125,52,19,39
+4217,Davis,Danny,WR,Louisiana State,71,192,466,18,6,760,108,46,21,26
+4218,Banks,Grant,WR,Maryland,75,207,453,33,7,697,111,57,53,49
+4219,Fulton,Joseph,WR,Texas Tech,67,190,451,14,12,760,103,27,8,23
+4220,Hopkins,Julio,WR,Washington State,74,195,442,15,11,700,110,37,43,44
+4221,Greer,Jesse,WR,Cincinnati,70,188,440,28,13,702,109,42,28,51
+4222,Phillips,Sam,WR,Oregon State,71,186,448,24,12,710,108,41,31,44
+4223,Tanner,Ben,WR,Vanderbilt,71,193,441,36,11,707,110,42,27,54
+4224,Nelson,Floyd,WR,Duke,69,186,446,15,11,687,105,44,47,46
+4225,Haupt,Dillon,WR,Earlham,72,201,473,18,11,720,110,28,44,36
+4226,Poston,Corey,WR,Oklahoma,72,191,447,12,5,708,108,36,30,36
+4227,Forbes,Angel,WR,Virginia,72,198,460,16,14,732,107,40,32,30
+4228,Griffin,Luke,WR,Michigan,73,205,451,18,5,733,105,45,20,35
+4229,Fulcher,Carson,WR,Penn State,72,200,451,18,5,720,107,40,21,31
+4230,Slatus,Jackie,WR,Pittsburgh,68,187,459,24,5,728,116,50,27,39
+4231,Lahnum,T.J.,WR,Houston,74,199,462,29,8,734,103,55,33,36
+4232,Elliott,Leslie,WR,Oklahoma State,71,184,449,24,8,696,107,35,30,45
+4233,Wilcox,Kody,WR,Minnesota,73,208,463,23,12,717,108,43,43,38
+4234,Stanton,Shaun,WR,Kansas,74,208,442,37,10,705,106,42,30,48
+4235,Swift,Dana,WR,Tuskegee,72,201,444,21,11,706,106,25,38,47
+4236,Humphries,Jalen,WR,Indiana,74,206,437,18,15,705,116,39,29,48
+4237,Marsh,Toby,WR,Kansas,68,188,451,21,12,747,104,47,16,36
+4238,Stargell,Terrance,WR,Louisville,72,193,451,16,11,723,105,38,25,31
+4239,Ingram,Ricardo,WR,Marist,71,190,448,15,9,760,110,26,26,29
+4240,Oliver,Alexander,WR,Kansas State,70,192,460,21,9,760,119,45,24,34
+4241,Lindquist,Giovanni,WR,Mississippi,73,200,451,19,9,727,104,30,13,33
+4242,Hess,Aaron,WR,Mississippi State,72,196,446,14,16,758,107,45,31,37
+4243,Gilmore,Clarence,WR,Navy,74,206,452,28,16,705,120,58,35,56
+4244,Rigsby,Jaylen,WR,Arizona,69,194,472,18,15,716,105,45,14,29
+4245,Evans,Luke,WR,Baylor,74,200,446,24,7,717,105,43,16,45
+4246,Snyder,Bryson,WR,New Mexico,72,197,445,34,11,720,113,44,9,43
+4247,Osiecki,Shaun,WR,Tulane,72,197,450,21,11,716,112,39,9,33
+4248,Fuentes,Chandler,WR,Arkansas,69,186,461,25,13,722,106,46,34,37
+4249,Burgess,Marvin,WR,Brigham Young,72,191,445,20,13,707,117,42,30,49
+4250,Michalske,Emmitt,WR,Northwestern,73,204,444,18,14,716,117,46,57,53
+4251,Perez,Maurice,WR,Oklahoma State,75,205,449,24,8,720,104,26,54,44
+4252,Bradford,Jimmie,WR,Nevada,73,199,447,20,12,715,118,52,50,50
+4253,Berlioz,Edgar,WR,Georgia Tech,70,193,445,18,15,751,123,40,35,39
+4254,Galloway,Jonah,WR,Iowa State,73,206,446,23,10,725,104,53,37,40
+4255,McQuarters,Tony,WR,Indiana,70,190,444,19,5,715,103,47,34,38
+4256,Gourdine,Walter,WR,Fresno State,71,186,461,23,5,716,112,43,25,36
+4257,Hepburn,Levi,WR,Oregon State,71,187,467,36,15,752,108,59,48,48
+4258,McLean,Jeffrey,WR,Kansas State,72,197,477,15,5,760,104,45,9,15
+4259,Sanders,Thomas,C,New Hampshire,74,281,524,19,25,790,93,0,20,33
+4260,Finley,Marquis,C,West Virginia,74,292,531,14,25,831,89,0,17,26
+4261,Vickrey,Luke,C,Stanford,73,275,522,29,31,822,97,0,37,37
+4262,Rasmussen,Ross,C,Kansas,79,299,518,43,23,794,102,0,7,33
+4263,Samuels,Jesse,C,Baylor,74,282,521,15,17,795,101,0,31,37
+4264,Holcombe,Wayne,C,San Diego State,71,280,523,31,20,784,83,0,27,33
+4265,Cerny,Marquis,LS,Stanford,71,239,550,39,17,840,83,0,26,18
+4266,Bernard,Junior,C,Duquesne,77,302,531,33,30,800,84,0,35,36
+4267,Preece,Fred,C,Mississippi,72,276,521,48,18,808,89,0,23,32
+4268,Jordan,Greg,C,Southern California,77,318,531,20,25,840,96,0,40,29
+4269,Huffman,Rick,C,Western Michigan,76,309,550,37,22,828,91,0,12,14
+4270,Ginn,Cristian,LS,Wake Forest,71,236,550,36,17,840,84,0,20,16
+4271,Dresback,Earl,C,Penn State,75,287,504,33,18,776,103,0,30,48
+4272,Cibella,Leonardo,C,UCLA,74,289,0,29,0,0,0,0,33,25
+4273,Finch,Vinny,C,Louisiana - Monroe,75,293,541,15,27,803,84,0,21,26
+4274,Diaz,Axel,LS,Kentucky,74,242,550,38,17,840,80,0,14,15
+4275,Burke,Steve,C,Liberty (Va.),73,289,490,19,18,811,84,0,1,29
+4276,Watkins,Ed,LS,Indiana,75,248,548,18,17,837,83,0,36,10
+4277,Jourden,Benjamin,C,Tennessee,75,299,513,16,37,774,81,0,45,46
+4278,Roberts,Sherman,C,Oklahoma,75,294,531,34,25,824,81,0,25,32
+4279,Bridgeman,Roman,C,Bowling Green,73,275,548,25,29,800,88,0,43,30
+4280,McGee,Roger,LS,Iowa,74,234,549,41,17,840,79,0,45,13
+4281,Borges,Max,C,Bethune Cookman,76,303,539,47,34,784,102,0,27,40
+4282,Harrison,Tanner,LS,Florida State,74,235,545,40,18,834,82,0,12,10
+4283,Parker,Jon,C,Ohio State,71,290,550,17,26,800,81,0,41,25
+4284,Carpenter,Levon,C,Missouri State,74,271,529,13,17,800,92,0,39,29
+4285,Voinovich,Max,C,Southern California,72,278,532,46,21,785,90,0,11,23
+4286,Jennings,Braden,C,North Carolina State,72,270,501,30,30,798,91,0,49,40
+4287,Marshall,Teddy,C,Lafayette,75,300,518,31,20,810,96,0,10,26
+4288,Jones,Alfred,C,Virginia Tech,74,286,549,24,26,799,79,0,27,24
+4289,Washington,Rondell,LS,Drake,78,260,550,19,17,834,80,0,21,7
+4290,Weiser,Eduardo,C,Oklahoma State,73,272,536,41,27,774,98,0,36,45
+4291,Lowe,Mercury,C,Southern Methodist,76,311,524,41,29,791,95,0,33,41
+4292,Hutton,Grady,C,Penn State,75,291,510,33,31,776,88,0,20,38
+4293,Carnation,Brandon,LS,Southern Mississippi,75,242,550,31,17,840,79,0,17,15
+4294,Ibanez,Gabriel,G,Oregon,77,310,521,46,21,835,85,0,23,23
+4295,Gunja,Craig,G,Marshall,74,307,522,36,27,780,95,0,44,43
+4296,Ross,Jorge,G,Auburn,77,337,499,24,30,776,97,0,14,48
+4297,Prescott,Jon,G,Hawaii,71,298,511,26,25,850,91,0,28,32
+4298,Bechtel,Jack,G,Houston,78,328,494,23,26,759,108,0,48,58
+4299,Snyder,K.C.,G,UCLA,75,322,511,34,30,820,98,0,48,44
+4300,Perkins,Rodney,G,Stanford,76,314,550,19,30,767,86,0,26,32
+4301,Senter,Ed,G,Kentucky,74,303,522,24,21,850,83,0,50,30
+4302,McGee,Fred,G,Washington State,75,290,527,30,21,772,101,0,5,31
+4303,Robbins,Brent,G,Florida A&M,76,332,538,36,21,790,84,0,20,21
+4304,Bush,Darryl,G,Iowa State,76,325,538,34,24,832,101,0,18,25
+4305,Brooks,Rich,G,Oklahoma State,75,309,509,18,26,792,104,0,9,44
+4306,Kenworthy,Joey,G,Arkansas,73,299,524,28,21,772,94,0,24,40
+4307,Udeze,Percy,G,Florida State,73,299,532,34,26,777,90,0,18,33
+4308,Cunningham,Evan,G,Auburn,75,306,521,25,34,792,94,0,10,44
+4309,Whitfield,Grant,G,Boston University,75,321,527,40,21,807,102,0,25,34
+4310,Tirman,Johnnie,G,Houston,74,311,527,26,21,781,85,0,30,33
+4311,Hess,Lee,G,Louisville,75,314,488,28,23,790,92,0,34,47
+4312,Kevorkian,Deon,G,Northwestern,73,299,528,30,38,804,83,0,29,44
+4313,Webb,Elijah,G,Texas - El Paso,78,323,527,37,21,790,90,0,41,36
+4314,Lyons,Isaiah,G,Houston,75,299,523,27,35,784,86,0,34,46
+4315,Cronk,Donny,G,Tennessee,71,292,539,29,25,790,88,0,32,25
+4316,Soliz,Victor,G,Georgia,72,302,508,23,27,771,92,0,44,57
+4317,Duda,Jameson,G,Ohio State,75,315,536,46,23,776,90,0,40,35
+4318,Atkins,Nicolas,G,Brigham Young,77,310,545,14,27,850,82,0,32,19
+4319,McDaniel,Dale,G,Clemson,74,300,536,40,27,805,95,0,27,32
+4320,Rosas,Ray,G,Auburn,74,305,527,42,28,841,79,0,45,37
+4321,Rand,Rob,G,North Carolina,73,292,524,37,24,778,99,0,31,31
+4322,Rexin,Rufus,G,Brigham Young,76,308,0,15,0,0,0,0,30,40
+4323,Rogers,Connor,G,Oregon State,77,339,530,29,38,774,103,0,35,52
+4324,Bush,Ashton,G,San Diego,74,299,532,21,25,775,99,0,10,33
+4325,Sisk,Roy,G,Prairie View A&M,75,297,537,17,24,850,102,0,13,22
+4326,Jones,Norm,G,Vanderbilt,75,323,549,23,25,780,94,0,20,27
+4327,Raaen,Leonard,G,Mississippi State,77,334,506,31,23,799,84,0,46,44
+4328,Fields,Chase,G,Florida State,75,326,522,30,22,781,99,0,43,40
+4329,Garner,Les,G,Iowa,75,315,527,40,27,767,96,0,40,52
+4330,Stevenson,Will,G,Southern California,74,307,513,35,31,850,79,0,29,38
+4331,Maze,Logan,G,Michigan State,78,327,527,21,22,838,93,0,36,27
+4332,Terrell,Donte,G,Colorado State,75,311,548,44,25,822,86,0,26,20
+4333,Gryboski,Anthony,G,Colorado State,77,319,522,25,25,797,88,0,25,35
+4334,Reed,Malcolm,G,Iowa,76,305,520,23,28,782,92,0,11,38
+4335,Sutter,Stanley,G,Iowa State,76,305,516,22,24,778,89,0,18,41
+4336,Fox,Jerome,G,Wisconsin,74,309,549,14,22,764,86,0,30,24
+4337,May,Dillon,G,West Virginia,75,291,533,34,24,795,88,0,28,34
+4338,Shaye,Tevin,G,Nebraska,77,323,550,20,28,782,80,0,15,24
+4339,Cassidy,Dalton,G,Pittsburgh,76,306,537,32,23,767,87,0,54,32
+4340,Belott,Cody,G,Tulane,75,299,532,41,24,829,94,0,52,29
+4341,Walker,Rick,G,Troy,72,294,523,21,33,752,102,0,19,50
+4342,Donofrio,Dale,G,Mississippi,75,299,505,40,21,796,100,0,52,48
+4343,Warholic,Devan,G,Wake Forest,76,327,534,38,21,834,94,0,41,25
+4344,Devine,Kenyon,G,Washington,78,325,0,24,0,0,0,0,36,41
+4345,McCarter,Erik,G,Louisiana - Lafayette,72,300,550,17,32,791,95,0,4,25
+4346,Piper,Donovan,G,East Carolina,75,314,527,26,27,779,95,0,34,41
+4347,Turner,Mario,G,Arizona State,78,332,550,33,24,790,94,0,25,24
+4348,Thornton,DeAndre,G,Rutgers,76,311,512,26,34,772,91,0,35,52
+4349,Lee,Reginald,G,Oregon State,75,310,532,46,36,759,82,0,26,46
+4350,Grant,Earl,G,Boston College,76,318,527,11,27,780,93,0,16,38
+4351,Lyons,B.J.,T,Utah,79,323,541,22,19,772,102,0,39,42
+4352,Hall,Wes,T,Southern Utah,73,304,536,27,27,823,109,0,26,37
+4353,Soule,Carlton,T,Nevada - Las Vegas,75,299,553,31,32,750,82,0,53,52
+4354,Gray,Levi,T,North Carolina,74,295,518,34,19,840,98,0,27,31
+4355,Tyler,Dominique,T,Western Carolina,76,297,557,40,28,773,92,0,45,42
+4356,Reid,Jeremy,T,Auburn,78,337,536,41,23,810,91,0,46,32
+4357,Bennett,Lewis,T,Alabama - Birmingham,73,297,536,22,20,780,96,0,24,29
+4358,Killian,Charles,T,Kentucky,76,302,519,27,41,775,107,0,7,55
+4359,Kournikova,Neal,T,Colorado State,77,312,537,17,19,776,104,0,19,33
+4360,Poole,Travis,T,Florida,76,312,519,26,35,769,102,0,32,55
+4361,Kaplan,Lamont,T,Fresno State,76,307,551,39,38,767,93,0,25,44
+4362,Clemons,Mackenzie,T,Stanford,80,312,519,40,19,775,86,0,28,42
+4363,Hill,Fred,T,Pittsburgh,77,313,552,47,33,783,100,0,41,47
+4364,Muranaka,Robert,T,Michigan State,77,317,518,35,19,778,91,0,20,42
+4365,Hayes,Harry,T,Washington State,80,327,560,38,22,840,84,0,10,11
+4366,Grandon,Kendall,T,Duquesne,80,339,511,40,31,751,85,0,25,47
+4367,Clancy,Ezra,T,Western Michigan,76,302,505,12,29,780,87,0,7,35
+4368,Hansen,Luis,T,Northwestern,74,291,517,28,37,768,106,0,37,59
+4369,Coleman,Jaylen,T,Purdue,77,314,556,46,35,746,90,0,19,42
+4370,Simmons,Francisco,T,Iowa State,75,303,526,46,23,798,87,0,32,35
+4371,Nixon,Jim,T,Iowa,80,331,542,36,28,789,106,0,39,42
+4372,Wolfe,Clyde,T,Morehead State,77,319,490,39,35,752,108,0,15,69
+4373,Gertz,Roberto,T,Northwestern,77,309,530,24,30,836,86,0,51,39
+4374,Barber,Donny,T,Baylor,73,303,505,38,28,806,90,0,15,45
+4375,Berman,Dominique,T,Iowa State,77,309,552,25,28,840,97,0,40,31
+4376,Wooldridge,Broderick,T,Arkansas,77,326,534,29,31,769,90,0,23,43
+4377,Swift,Dakota,T,Harvard,78,322,538,15,31,780,89,0,19,34
+4378,Robinson,Norbert,T,Montana State,77,315,527,30,32,774,87,0,36,49
+4379,Summers,Deron,T,Louisville,77,326,517,26,26,774,96,0,28,55
+4380,Ballard,Emmanuel,T,Bethune Cookman,77,322,526,33,28,806,98,0,38,39
+4381,Weitzel,Monty,T,Texas Christian,76,306,511,33,28,764,104,0,42,55
+4382,Longhenry,Quentin,T,North Carolina State,78,332,527,20,29,768,86,0,26,34
+4383,Malone,Chuck,T,Louisville,77,319,527,30,28,804,80,0,21,38
+4384,Webb,Graham,T,Stanford,76,304,540,40,26,746,81,0,41,49
+4385,Faust,Josh,T,Wake Forest,77,317,538,26,34,774,85,0,26,43
+4386,Pierce,Jackson,T,Washington State,78,326,529,36,21,800,91,0,9,33
+4387,Barber,Roberto,T,Southern California,76,302,560,10,32,777,88,0,13,27
+4388,Lovelace,Roy,T,Temple,79,338,560,41,29,840,86,0,10,16
+4389,Lau,Trenton,T,Central Michigan,77,322,512,27,19,772,83,0,20,44
+4390,Lane,Nathaniel,T,Pittsburgh,73,317,515,33,25,822,81,0,6,34
+4391,Richard,Philip,T,Temple,77,313,527,44,21,770,99,0,30,39
+4392,Farrell,Amos,T,Eastern Illinois,74,310,498,28,24,768,99,0,48,63
+4393,Jamison,Quinn,T,Arkansas - Pine Bluff,76,316,542,16,34,780,103,0,17,45
+4394,Dotson,Frankie,T,Kansas,78,327,553,38,20,762,96,0,26,37
+4395,Burney,Harris,T,South Carolina,76,292,520,44,19,780,101,0,32,47
+4396,Davidson,Arnie,T,California,75,302,560,22,28,816,93,0,26,25
+4397,Southerland,Malcolm,T,Florida,77,309,559,27,20,813,95,0,46,26
+4398,Despirito,Ray,T,North Carolina,77,323,510,19,26,835,94,0,11,34
+4399,Brecht,Pedro,T,Minnesota,76,306,521,42,27,780,106,0,47,53
+4400,Hodges,Jamal,T,Northwestern,78,333,491,38,26,813,84,0,22,45
+4401,Morrison,Peyton,T,Hofstra,79,328,527,30,31,770,104,0,28,39
+4402,Enbysk,D.J.,T,Miami  Florida,77,319,517,32,19,747,95,0,8,45
+4403,Huffman,Richard,T,Michigan State,76,306,558,32,26,838,107,0,47,31
+4404,Sutter,Brian,T,Minnesota,75,302,536,27,27,748,85,0,21,42
+4405,Shannon,Gilbert,T,Penn State,76,303,524,23,24,780,90,0,30,41
+4406,Wells,Miles,T,Oregon,77,315,527,22,28,780,89,0,31,42
+4407,Leber,Marlon,T,Florida State,77,323,522,11,31,812,84,0,16,29
+4408,Dougherty,Wally,T,Mississippi State,77,313,519,21,30,747,89,0,30,55
+4409,Oxenby,Samuel,P,Sacramento State,73,201,474,16,9,735,113,0,60,27
+4410,McWilliams,Jordan,P,Georgia,74,213,507,22,6,750,116,0,61,24
+4411,Henke,Riddick,P,Howard,73,205,507,15,5,780,108,0,37,14
+4412,Schell,Jameson,P,Syracuse,73,205,507,33,15,806,110,0,55,29
+4413,Brent,Samuel,P,Syracuse,76,223,540,24,12,809,105,0,53,17
+4414,Fields,Darius,P,Wake Forest,73,207,507,17,8,761,110,0,45,17
+4415,Franklin,Dave,P,South Carolina,72,199,486,36,5,737,114,0,67,31
+4416,Woodard,Adrian,P,Colorado,75,229,507,29,12,795,98,0,57,23
+4417,Russo,Rich,P,Louisville,77,221,535,12,6,745,111,0,50,11
+4418,Hatfield,Stan,P,Miami  Florida,75,217,507,15,8,759,95,0,43,21
+4419,Speight,Bryant,P,Indiana,74,213,484,25,13,714,105,0,61,36
+4420,Genovese,Damien,P,Washington,70,210,534,38,14,781,107,0,42,18
+4421,Whiting,Roosevelt,P,Washington State,71,204,495,25,13,803,116,0,49,27
+4422,Beckham,Fred,P,Oregon State,74,210,495,22,16,734,114,0,43,26
+4423,Nimmo,Aiden,P,Louisiana State,69,202,490,18,7,733,102,0,75,26
+4424,Ferguson,Mason,P,Oklahoma State,74,207,475,21,13,745,107,0,42,32
+4425,Peek,Jaylen,P,Bethune Cookman,73,196,473,20,6,821,113,0,47,28
+4426,DeBastiani,Dustin,P,Southern Illinois,73,203,499,31,14,741,116,0,49,23
+4427,Lowe,Eli,P,Ball State,74,208,536,32,9,802,105,0,48,16
+4428,Hawkins,Desmond,P,Ohio State,74,219,499,22,16,758,111,0,46,28
+4429,Sawyer,Rod,P,Iowa,71,203,516,16,5,729,116,0,71,21
+4430,Monroe,Kelly,P,Stanford,74,215,477,19,5,737,116,0,61,27
+4431,Roetman,Brock,P,LIU/C.W. Post,73,207,496,23,9,725,105,0,39,26
+4432,Modargri,Ruben,K,Texas A&M,72,202,502,25,11,764,96,0,51,26
+4433,Hitchcock,Deron,K,Washington,72,203,508,25,9,822,106,0,57,27
+4434,Lawrence,Tanner,K,Northwestern,72,205,498,38,5,725,98,0,52,28
+4435,Fries,Rusty,K,South Carolina,72,203,500,36,9,749,114,0,68,33
+4436,Garner,Ashton,K,Arizona,74,212,509,38,11,780,104,0,49,34
+4437,Burnett,Harry,K,Oregon State,73,211,517,19,9,754,103,0,44,18
+4438,Graham,Irv,K,Brown,74,211,524,26,4,774,90,0,66,22
+4439,Bruce,Roberto,K,Air Force,71,198,512,26,7,746,103,0,64,25
+4440,Poston,Trevor,K,Illinois,72,208,506,13,6,740,99,0,57,15
+4441,Linquist,Lukas,K,Oregon,73,211,501,25,9,768,106,0,40,24
+4442,Schroeder,Lamont,K,Arizona,74,219,511,29,9,780,98,0,46,21
+4443,Neiman,Kelly,K,West Virginia,72,205,522,16,9,716,101,0,52,19
+4444,Handwerker,Rick,K,Texas A&M,71,195,512,28,5,750,94,0,46,18
+4445,Patton,Zachery,K,Western Carolina,73,218,540,15,9,749,104,0,31,16
+4446,Lundy,Al,K,Texas A&M,71,195,511,32,12,780,105,0,52,30
+4447,Dvorak,Oscar,K,Southwest St.  Minn.,71,199,518,36,6,717,91,0,51,25
+4448,Kidder,Josue,K,Minnesota,71,199,519,23,10,766,105,0,47,22
+4449,Castle,Bert,K,Clemson,73,209,505,41,8,732,110,0,40,30
+4450,Belott,Stan,K,Tenn. - Chattanooga,73,219,527,25,9,768,98,0,63,26
+4451,Rison,Cooper,K,Temple,71,194,535,19,12,725,99,0,29,19
+4452,Sandas,Tony,K,Florida State,68,192,494,33,20,806,116,0,73,43
+4453,Riffle,Darren,K,Florida State,72,203,506,40,11,828,104,0,57,30
+4454,Bradford,Oscar,K,Washington State,72,200,503,31,11,760,109,0,56,36
+4455,Etten,Gregory,DE,Oregon,71,280,499,13,29,796,103,0,29,32
+4456,Watson,Tristan,DE,Southern California,73,281,470,26,29,738,128,0,30,64
+4457,Godfrey,Gavin,DE,Mississippi,75,282,476,21,27,784,104,0,42,45
+4458,Rodgers,Dexter,DE,Arizona,80,289,473,9,26,738,98,0,32,49
+4459,Hall,Alonzo,DE,Weber State,77,311,486,33,28,818,102,0,46,38
+4460,Thomason,Grant,DE,Purdue,72,274,515,33,31,789,109,0,47,42
+4461,Bridges,Damon,DE,Oklahoma,77,296,512,18,32,771,114,0,25,35
+4462,Reichardt,Bernie,DE,Tulane,76,282,485,25,32,759,113,0,34,51
+4463,Woodall,Vinny,DE,Duke,75,271,509,19,22,799,95,0,45,26
+4464,Getz,Andy,DE,Maryland,76,290,482,27,27,801,109,0,53,46
+4465,Duncan,Asher,DE,Texas A&M,73,281,472,21,31,771,109,0,36,49
+4466,Morton,Lucas,DE,Texas Tech,79,301,483,10,27,780,109,0,21,35
+4467,Westbrook,Walter,DE,Mississippi,77,302,497,18,27,799,109,0,43,38
+4468,Plake,Pat,DE,Connecticut,75,278,477,18,27,785,105,0,47,47
+4469,Schafluetzel,Kerry,DE,Navy,74,267,485,30,24,796,120,0,24,34
+4470,Lester,Emmanuel,DE,Tennessee State,75,279,501,36,24,814,124,0,19,27
+4471,Dercher,Jordan,DE,Georgia Tech,75,280,472,41,33,783,112,0,47,53
+4472,Shook,Byron,DE,Northern Michigan,74,288,489,24,20,743,102,0,35,37
+4473,Stargell,Mario,DE,Virginia Tech,76,295,495,22,29,760,98,0,16,35
+4474,Cancilla,Herb,DE,Prairie View A&M,76,298,458,28,38,719,129,0,33,74
+4475,Stanton,Jerald,DE,Alabama - Birmingham,77,306,482,26,30,796,110,0,26,44
+4476,Stewart,Denzel,DE,Purdue,72,272,494,28,27,807,110,0,47,39
+4477,Coleman,Bernie,DE,Arizona,74,289,508,35,20,763,113,0,47,41
+4478,McKyer,Caiden,DE,Temple,75,290,470,39,27,780,126,0,17,44
+4479,Anthony,Tyrus,DE,Clemson,75,275,481,27,26,734,105,0,29,51
+4480,Blair,J.B.,DE,Ohio State,75,282,499,28,32,760,116,0,46,44
+4481,Garner,Barry,DE,North Carolina,73,279,481,18,24,760,111,0,41,48
+4482,Porter,Billy,DE,Oklahoma State,75,276,460,41,31,730,123,0,57,72
+4483,Spann,Ivan,DE,Michigan,79,307,485,11,27,756,109,0,45,48
+4484,Darnell,Connor,DE,Oregon,76,290,485,22,27,820,103,0,53,39
+4485,Blades,Carlton,DE,Brigham Young,73,280,479,22,28,780,104,0,13,39
+4486,Kelly,Dominic,DE,Ohio,76,297,481,23,24,808,120,0,50,43
+4487,Carlisle,Colby,DE,Clemson,71,286,465,17,23,762,121,0,25,49
+4488,Stuart,Connor,DE,Louisville,73,266,490,22,27,760,113,0,48,47
+4489,Dunn,Evan,DE,Delaware,75,278,483,15,32,763,103,0,47,53
+4490,Lester,Toby,DE,Louisiana - Monroe,75,282,515,18,25,784,117,0,24,27
+4491,Shannon,Isaiah,DE,New Mexico State,76,296,515,23,27,760,94,0,38,37
+4492,Kramer,Dave,DE,Alabama,77,290,468,26,30,749,108,0,40,62
+4493,Bouie,Gary,DE,Duke,76,289,0,12,0,0,0,0,25,36
+4494,Winslett,Cris,DE,Alabama - Birmingham,77,297,514,26,19,760,100,0,36,31
+4495,Tran,Abraham,DE,Louisiana - Lafayette,76,296,479,25,21,779,118,0,27,42
+4496,Kimbrell,Andrew,DE,Kansas State,76,286,484,16,24,758,108,0,19,42
+4497,Richmond,Peyton,DE,Iona,75,273,485,24,27,796,104,0,34,35
+4498,Nielsen,Kennedy,DE,Eastern Tenn. St.,75,284,479,17,27,790,100,0,37,37
+4499,Crawford,Wes,DE,Minnesota,77,311,489,15,32,750,106,0,51,51
+4500,Harnisch,Brody,DE,Arizona State,78,306,493,14,31,747,116,0,31,46
+4501,Poston,Brady,DE,Arizona State,75,276,515,22,28,759,102,0,52,38
+4502,Burks,Gavin,DE,Navy,72,281,474,37,30,750,106,0,44,56
+4503,Woodard,Taylor,DE,Oklahoma State,78,299,485,24,33,776,118,0,29,47
+4504,Lester,Wes,DE,Buffalo,76,287,486,27,27,751,104,0,41,44
+4505,Abernathy,Sam,DE,Alabama,76,291,482,37,27,779,100,0,26,36
+4506,Givens,Andrew,DE,North Carolina State,76,290,485,21,18,798,108,0,42,34
+4507,Zatechka,Damien,DE,Georgia Tech,72,285,485,32,30,719,106,0,34,62
+4508,Bullock,Desmond,DE,Ohio State,76,286,0,35,0,0,0,0,13,57
+4509,Piniella,Edwin,DE,Purdue,74,286,513,30,27,760,97,0,44,41
+4510,Webster,Jonathan,DE,Vanderbilt,75,274,479,32,27,763,107,0,18,37
+4511,McConnell,Trey,DT,Southern California,75,310,507,36,27,807,119,0,44,43
+4512,Fraaije,Geoff,DT,Kentucky,79,318,505,23,25,834,114,0,31,32
+4513,Griffith,Rex,DT,Indiana,75,313,500,26,28,825,112,0,17,35
+4514,Bramstedt,Vincent,DT,Minnesota,77,334,516,20,28,822,101,0,46,38
+4515,Young,Sebastian,DT,Hawaii,78,333,515,20,26,776,103,0,32,44
+4516,Reichenberg,Hayden,DT,Oklahoma State,74,311,494,17,36,845,107,0,36,44
+4517,Whalen,Cesar,DT,UCLA,75,330,500,20,25,788,108,0,44,43
+4518,Ackerman,Nicholas,DT,Marshall,75,315,501,25,32,821,102,0,62,50
+4519,Hickman,Rico,DT,Texas,77,324,507,27,30,802,87,0,43,40
+4520,Garcia,Aiden,DT,Southern Mississippi,75,314,499,27,28,806,105,0,45,49
+4521,Kalin,Norbert,DT,Houston,76,315,507,25,34,784,108,0,36,52
+4522,Capasso,Ross,DT,Iowa,79,324,522,22,33,837,97,0,27,29
+4523,Ballard,Herman,DT,Kansas,74,307,507,32,25,837,82,0,40,29
+4524,Shields,Tito,DT,Mississippi,74,294,495,29,42,752,111,0,64,79
+4525,Morrison,Brett,DT,Wyoming,74,301,521,20,28,831,106,0,22,33
+4526,Campbell,Trevor,DT,Louisiana Tech,74,309,540,20,33,845,104,0,41,31
+4527,Bedell,O.J.,DT,Harvard,75,314,505,29,35,749,105,0,45,68
+4528,Hines,Cory,DT,Southern California,73,296,521,24,31,752,78,0,17,47
+4529,Clifton,Maxwell,DT,San Diego State,74,300,507,15,21,780,82,0,38,37
+4530,Barnes,Cornell,DT,Tennessee,76,326,515,43,32,791,88,0,35,40
+4531,Patterson,Danny,DT,Kutztown,74,298,504,11,24,770,106,0,58,52
+4532,Meyer,Ezra,DT,San Jose State,73,305,505,30,36,811,100,0,59,54
+4533,Jackson,Calvin,DT,Mississippi,74,304,533,20,24,765,88,0,28,37
+4534,Wallace,Ramon,DT,West Virginia,75,323,498,23,33,773,98,0,37,53
+4535,Hoye,Tristan,DT,Sacred Heart (Conn.),75,316,513,18,28,773,111,0,22,45
+4536,Yanok,Gustavo,DT,South Carolina,75,313,0,20,0,0,0,0,23,35
+4537,Lowe,Shaun,DT,Rutgers,75,313,513,31,28,796,99,0,28,33
+4538,Haayer,Lorenzo,DT,Virginia,74,303,0,23,0,0,0,0,61,55
+4539,Barton,Drew,DT,Rutgers,74,289,497,24,25,822,97,0,57,39
+4540,Romano,Ted,DT,Penn State,74,301,482,28,37,750,114,0,31,70
+4541,Laxdal,Mark,DT,Wyoming,76,328,503,29,28,809,83,0,41,42
+4542,Ashley,Bryce,DT,Purdue,72,314,512,27,23,780,101,0,25,40
+4543,Carlisle,Leslie,DT,South Carolina,76,327,507,20,28,825,101,0,58,40
+4544,Snyder,Adam,DT,San Jose State,75,318,499,21,28,780,81,0,24,46
+4545,Horowitz,Chris,DT,Colorado State,72,295,486,22,37,755,120,0,47,74
+4546,Murphy,Alfred,DT,Florida State,78,337,501,20,30,776,103,0,50,59
+4547,England,Fred,DT,Missouri - Rolla,75,315,505,23,31,839,97,0,62,42
+4548,Butler,D.J.,DT,Texas - El Paso,75,321,540,13,29,824,84,0,36,27
+4549,Tubbs,Victor,DT,New Mexico,72,297,510,23,31,818,94,0,53,41
+4550,Pries,Timothy,DT,Syracuse,74,304,507,27,30,850,98,0,39,34
+4551,Mahovlich,Jaylen,DT,Arkansas,72,300,524,31,27,780,103,0,21,42
+4552,Gehrig,Frank,DT,Navy,74,312,516,27,36,761,102,0,47,51
+4553,Jenkins,Leland,DT,Indiana,73,297,500,23,28,795,107,0,27,39
+4554,Raymond,Cory,DT,Michigan State,74,295,495,25,36,777,114,0,31,58
+4555,Dudzik,Neal,DT,Arizona,73,297,534,21,23,821,103,0,40,28
+4556,Compton,Burt,DT,Washington State,75,315,517,23,30,776,104,0,57,53
+4557,Ramirez,Tevin,DT,Ohio,74,292,0,20,0,0,0,0,30,35
+4558,Jalove,Darryl,DT,Ohio State,77,328,508,14,31,756,116,0,28,52
+4559,Glaros,Bernie,DT,Auburn,76,334,505,20,28,780,78,0,8,40
+4560,Sandhu,Brad,DT,Cincinnati,72,309,521,26,28,768,96,0,62,49
+4561,Galloway,Casey,DT,Mississippi,75,318,505,16,28,815,104,0,35,40
+4562,Steiner,Derek,DT,Ohio State,75,323,507,27,31,770,109,0,24,54
+4563,Anunson,Daniel,DT,Boston College,77,329,524,27,27,813,106,0,50,42
+4564,Hanks,Conrad,DT,West Virginia,73,302,504,20,28,843,99,0,52,39
+4565,Bickford,Lincoln,ILB,Louisiana State,71,230,496,33,16,789,101,18,58,34
+4566,Schroeder,Nickolas,ILB,Boston College,72,243,479,51,24,797,99,28,33,36
+4567,Woodson,Mason,ILB,Wyoming,68,226,486,13,17,759,102,30,44,38
+4568,Hernandez,Tito,ILB,Penn State,75,253,489,33,22,760,100,21,57,43
+4569,Wojtas,Winston,ILB,Alabama - Birmingham,73,254,491,17,21,792,103,28,51,32
+4570,Stevenson,Tinky,ILB,Notre Dame,72,235,479,29,20,771,104,28,42,39
+4571,Levenson,Roosevelt,ILB,Boston College,76,251,489,33,25,755,107,32,54,49
+4572,Jordan,Kody,ILB,Louisville,72,241,476,34,14,771,111,14,27,32
+4573,Slaton,Robert,ILB,Tennessee,72,233,484,36,27,790,107,35,58,47
+4574,Elliott,Daryl,ILB,Notre Dame,76,258,478,19,18,745,105,28,50,45
+4575,Willis,Benjamin,ILB,Maryland,70,229,491,33,19,737,105,36,27,43
+4576,Sanderson,Edgar,ILB,Stanford,73,243,477,31,21,760,106,17,64,43
+4577,Hibbs,Ted,ILB,Morgan State,74,255,483,39,22,773,109,30,60,40
+4578,Monroe,Hardy,ILB,Baylor,73,246,488,36,21,775,100,30,26,26
+4579,Marsh,Ty,ILB,Georgia,73,248,483,43,21,754,107,36,27,49
+4580,Porterfield,Earl,ILB,Eastern Michigan,73,241,482,30,25,740,110,32,34,54
+4581,Kelsey,Ryan,ILB,Nebraska,72,232,494,28,21,746,113,19,30,44
+4582,Bruce,Irving,ILB,Arkansas,69,226,486,21,22,770,104,33,36,33
+4583,Demyan,Richard,ILB,Iowa,72,231,475,33,20,742,112,13,45,50
+4584,Lanner,Reggie,ILB,Iowa State,73,248,486,27,19,760,102,30,27,32
+4585,Griffith,Lorenzo,ILB,Cal. - Poly SLO,75,254,474,24,23,755,105,34,29,46
+4586,Branston,Andre,ILB,Central Michigan,73,242,464,17,19,731,108,25,36,49
+4587,Stewart,Sammy,ILB,Texas Christian,73,236,486,30,16,760,107,34,62,43
+4588,Gaylor,Brady,ILB,Alabama - Birmingham,75,257,498,33,21,765,105,37,41,37
+4589,Shepherd,Hector,ILB,Toledo,75,249,486,24,18,792,104,26,28,27
+4590,Wimberley,Amos,ILB,Kansas State,77,254,495,19,14,760,104,26,52,39
+4591,Pritchett,Justics,ILB,South Carolina,72,245,459,35,19,761,105,25,17,36
+4592,Cecil,Lukas,ILB,Georgia,73,237,486,19,21,760,108,22,44,36
+4593,Wellstone,Bert,ILB,Florida,74,256,493,34,26,753,113,27,43,47
+4594,Hartman,Matthew,ILB,Oregon State,74,250,482,40,24,711,110,23,58,57
+4595,Carpenter,Donnell,ILB,Missouri - Rolla,71,235,506,24,14,780,96,29,56,31
+4596,Snowden,Monty,ILB,Miami  Florida,72,231,486,16,17,787,105,30,52,33
+4597,Linquist,Salvador,ILB,Arizona,76,257,488,23,19,791,104,23,33,29
+4598,Jordan,Demetrius,ILB,Maryland,73,246,478,24,17,755,105,31,41,40
+4599,Dishman,Jackson,ILB,Nebraska,72,235,484,16,17,810,94,19,42,19
+4600,Lukac,Darius,ILB,North Carolina,73,241,484,41,14,744,109,28,19,44
+4601,Robertson,Salvador,ILB,Oklahoma State,72,243,492,25,21,770,99,30,22,28
+4602,Korzuk,Zachary,ILB,Florida State,72,235,486,39,26,729,113,35,53,49
+4603,Lucic,Mercury,ILB,Clemson,73,243,502,14,14,804,92,28,53,19
+4604,Earthman,Silas,ILB,Central Connecticut,70,228,490,21,25,736,113,18,28,46
+4605,Cheatham,Micah,ILB,Western Michigan,71,237,506,16,22,807,94,29,51,23
+4606,McCaffrey,Kaleb,ILB,Fort Hays State,72,231,504,21,21,753,104,21,58,45
+4607,Caleca,Terrence,ILB,Maryland,73,246,496,40,19,775,100,31,32,37
+4608,Ahrens,Sedrick,ILB,Houston,71,226,475,26,22,783,106,26,64,40
+4609,Cooper,Wyatt,ILB,Maryland,76,247,484,20,25,784,105,15,25,30
+4610,Ferber,Earnest,OLB,North Carolina State,71,233,472,27,12,727,108,21,19,35
+4611,Robinson,Theodore,OLB,Georgetown,73,255,0,13,0,0,0,30,26,36
+4612,Tatangelo,Rob,OLB,Boston College,73,246,477,38,21,740,107,29,29,36
+4613,Kolb,Martin,OLB,Nebraska,70,251,489,29,22,740,111,17,21,32
+4614,Fells,Samuel,OLB,Alabama,72,249,480,36,21,723,116,34,55,47
+4615,Clancy,Devon,OLB,Florida,71,252,471,32,18,779,101,27,45,29
+4616,Zarate,Dean,OLB,Wisconsin,73,235,466,19,20,744,111,41,37,42
+4617,Parra,Shaun,OLB,Iowa,72,245,460,19,16,724,121,26,20,38
+4618,Thompson,Alex,OLB,Duke,73,236,460,31,24,770,104,37,69,39
+4619,Sanders,Kody,OLB,Ohio,73,248,469,39,14,728,106,35,35,45
+4620,Castroll,Riddick,OLB,UCLA,76,257,467,23,18,740,110,30,51,46
+4621,Benfer,Bennett,OLB,Tennessee,72,233,456,29,11,746,109,15,61,42
+4622,Thomason,Sebastian,OLB,Purdue,72,234,495,34,20,738,108,11,28,35
+4623,Ewiak,Nicky,OLB,Miami  Florida,74,250,475,28,22,728,113,39,65,59
+4624,Campbell,Giovanni,OLB,Washington,73,251,459,35,21,709,111,20,36,47
+4625,Stender,Danny,OLB,Duke,73,247,474,31,16,730,108,19,46,36
+4626,Craig,Darryl,OLB,North Carolina,72,248,479,26,19,772,99,23,38,27
+4627,Thomason,Rufus,OLB,Oklahoma State,73,244,470,33,12,733,118,19,40,46
+4628,Bernard,Asher,OLB,Kansas State,73,260,456,23,25,709,119,36,44,60
+4629,Dubose,Allen,OLB,Oregon State,75,257,470,30,10,766,97,30,55,34
+4630,Nichols,Jaylen,OLB,Temple,72,252,481,22,11,773,106,29,22,22
+4631,Davidson,B.J.,OLB,Arizona State,72,251,471,22,11,732,104,20,55,42
+4632,Dunlap,Nate,OLB,Jackson State,71,245,461,18,16,760,105,24,39,32
+4633,Horner,Demetrius,OLB,Arizona State,70,242,481,23,18,736,111,25,39,35
+4634,Armstrong,Omar,OLB,Northern Illinois,73,257,456,26,12,729,106,9,32,40
+4635,Blackner,Quinn,OLB,Florida State,75,265,471,34,22,728,116,22,30,41
+4636,Madison,Tucker,OLB,East Carolina,75,277,454,17,18,727,112,29,44,49
+4637,Farrell,Myles,OLB,Kansas,76,277,468,30,21,734,114,34,31,45
+4638,Rogers,Randall,OLB,Texas - El Paso,75,265,478,24,18,720,117,27,39,43
+4639,Wirtz,Orlando,OLB,Oregon,69,245,468,27,21,752,117,29,44,41
+4640,Jacobs,Fernando,OLB,Henderson State,72,238,483,22,22,743,103,7,50,33
+4641,Cote,Alejandro,OLB,Rice,78,262,471,13,15,740,111,30,20,32
+4642,Collins,Leon,OLB,Wake Forest,72,247,473,11,15,762,106,32,60,32
+4643,Huntley,Harvey,OLB,Pittsburgh,73,249,486,19,11,748,106,28,34,29
+4644,DuBois,Grant,OLB,Tennessee,72,247,491,34,22,716,112,25,54,45
+4645,Doyle,Quentin,OLB,Angelo State,77,261,471,22,20,740,116,19,68,47
+4646,McClay,Phil,OLB,Texas Christian,75,268,472,33,19,720,116,27,47,48
+4647,Wisne,Kristopher,OLB,Nevada - Las Vegas,72,251,471,13,18,724,114,22,50,45
+4648,Greer,Conrad,OLB,Michigan State,72,242,476,21,14,713,118,33,58,45
+4649,Anglin,Spencer,OLB,Southern University,72,249,466,23,16,740,108,32,60,45
+4650,Scoggins,Jace,OLB,Miami  Florida,73,253,483,32,11,740,116,26,37,41
+4651,Sheldon,Thurman,OLB,Notre Dame,72,249,463,22,20,744,112,40,60,48
+4652,Muranaka,Earnest,OLB,Louisiana State,76,277,466,35,20,722,113,41,31,55
+4653,Shannon,Toby,OLB,Nevada - Las Vegas,73,255,476,31,20,733,106,36,26,32
+4654,Thomas,Jack,OLB,UCLA,73,245,0,15,0,0,0,24,51,39
+4655,Broadway,Floyd,OLB,Clemson,73,237,472,30,18,720,118,21,38,50
+4656,Ayersman,Devante,OLB,Memphis,75,258,473,22,20,741,111,34,33,38
+4657,Conway,Travis,OLB,St. Francis  Pa.,76,261,471,29,20,727,113,30,37,48
+4658,Finley,Harvey,OLB,Jacksonville,70,250,471,17,10,766,109,10,43,27
+4659,Lyon,Avery,OLB,Chicago,72,249,495,23,10,779,100,30,55,22
+4660,Andersen,Kim,OLB,Rutgers,73,251,469,29,19,740,107,8,47,41
+4661,Weathers,Kaden,OLB,Charleston Southern,73,245,495,18,23,740,109,36,57,38
+4662,Foster,Stan,OLB,California,72,241,471,23,18,765,114,22,36,30
+4663,Whalen,Arnie,OLB,Virginia Tech,69,239,454,38,17,716,121,29,31,45
+4664,Currie,Raymond,OLB,Northwestern,74,264,453,13,15,733,113,29,54,44
+4665,McDaniel,Bob,OLB,South Carolina,77,258,483,29,18,780,98,27,56,29
+4666,Duran,Louis,OLB,Maryland,77,262,491,19,21,760,108,23,35,30
+4667,Patterson,Warren,CB,West Virginia,70,177,434,29,14,707,105,34,57,54
+4668,Bronson,Rusty,CB,Florida,69,182,468,33,13,709,106,31,27,37
+4669,Freeman,Philip,CB,Alabama,71,190,446,17,12,727,103,49,41,47
+4670,de los Santos,Damian,CB,Louisiana Tech,71,191,448,20,7,736,106,43,53,43
+4671,Auerbach,Garrett,CB,Nebraska,69,183,469,16,14,717,104,33,50,39
+4672,Wilkerson,Mike,CB,Wyoming,68,182,444,25,6,754,107,39,46,38
+4673,Crabtree,Richie,CB,Ohio State,69,181,471,22,13,714,107,25,55,34
+4674,Lugo,Noah,CB,Northern Illinois,70,177,0,30,0,0,0,31,51,41
+4675,Springer,J.T.,CB,Kentucky,71,190,459,21,9,737,108,21,30,27
+4676,Strickland,Manuel,CB,Alabama,71,188,450,24,10,735,106,38,46,44
+4677,Hoffman,Carlton,CB,Purdue,70,183,443,39,16,680,121,50,47,69
+4678,Cash,Jose,CB,Mississippi,71,196,444,16,14,707,106,48,60,60
+4679,Daluiso,Herman,CB,Oregon,71,194,472,19,12,720,114,33,31,34
+4680,Walyuchow,Wally,CB,Syracuse,69,185,468,24,8,760,105,40,45,29
+4681,Burns,Dominic,CB,East Carolina,70,183,451,25,14,689,105,26,36,47
+4682,Harr,Vince,CB,Iowa State,70,185,450,21,13,709,105,41,31,49
+4683,Vicedo,Maxwell,CB,Towson,70,174,472,23,7,754,104,29,45,22
+4684,Ivory,Winston,CB,South Carolina,69,182,472,10,9,739,107,39,20,22
+4685,Couch,Dalton,CB,Indiana,71,191,451,19,7,746,103,42,47,33
+4686,McKenzie,Harold,CB,North Carolina,71,194,457,30,9,714,103,46,26,36
+4687,Selfridge,Mike,CB,Northwestern,70,182,465,16,9,724,107,27,64,35
+4688,Dunbar,Connor,CB,Baylor,69,189,455,24,12,740,108,39,29,34
+4689,Crawford,Myles,CB,Alcorn State,71,187,0,19,0,0,0,43,57,43
+4690,Bradford,Wyatt,CB,Indiana,67,187,458,19,14,720,102,40,65,42
+4691,Stargell,Teddy,CB,Middle Tennessee St.,72,200,448,25,14,705,105,33,51,44
+4692,McDaniel,Lorenzo,CB,Tulane,70,185,463,24,13,707,108,15,31,35
+4693,Fellows,Amari,CB,Florida,72,202,452,11,12,733,105,47,37,42
+4694,Vaughn,Renaldo,CB,Nebraska,71,196,452,41,14,720,125,37,65,52
+4695,Lane,Tevin,CB,Northwestern,74,195,469,16,13,720,104,15,63,37
+4696,O'Neal,Dean,CB,Mississippi,73,202,445,32,13,720,110,48,29,47
+4697,Cox,Jamal,CB,Temple,69,177,452,20,6,760,112,26,20,22
+4698,Marklund,Henry,CB,Pittsburgh,70,184,443,19,12,716,104,39,53,52
+4699,Boynton,Donte,CB,Clemson,67,185,458,18,12,728,106,40,55,45
+4700,Glenn,Rico,CB,New Mexico,71,185,447,22,14,712,112,36,29,45
+4701,Kanpurwala,Moe,CB,Iowa State,70,182,461,19,13,731,104,38,69,43
+4702,Epps,Dan,CB,Louisiana - Monroe,70,184,471,34,12,720,108,31,53,39
+4703,Cole,Darnell,CB,Mississippi State,70,179,470,20,12,750,108,29,57,33
+4704,Whitfield,Scottie,CB,Wisconsin,71,187,451,30,15,704,102,46,63,58
+4705,Chastain,Tracy,CB,Alabama - Birmingham,70,182,448,29,13,702,111,47,64,45
+4706,Webb,Antonio,CB,North Carolina State,70,182,458,22,12,720,104,25,64,39
+4707,Dietrich,Junior,CB,Middle Tennessee St.,69,183,444,35,14,704,106,55,44,47
+4708,Pilcher,Myles,CB,Mississippi,73,194,450,19,14,737,103,39,49,48
+4709,Quinn,Erick,CB,Pittsburgh,72,207,444,12,7,745,111,46,38,39
+4710,Brown,Kyle,CB,Baylor,74,208,458,40,16,722,107,46,39,39
+4711,Suliven,Brant,CB,Florida,72,193,456,19,13,714,112,27,34,31
+4712,Maloney,Paul,CB,Oregon,70,190,450,24,12,714,109,30,44,44
+4713,Hansen,Demetrius,CB,Florida State,70,191,440,19,8,739,108,41,66,48
+4714,Money,Eric,CB,Virginia Tech,70,184,0,26,0,0,0,47,64,47
+4715,Otomo,Marlon,CB,Jackson State,71,192,452,22,8,720,104,46,25,36
+4716,Bodden,Leo,CB,Charleston Southern,72,202,456,19,12,720,103,34,37,33
+4717,Baglien,DeAndre,CB,Kansas State,73,202,459,25,7,721,102,42,38,35
+4718,Roberson,Alfred,CB,Arizona,74,200,449,29,14,702,108,42,20,46
+4719,Castillo,Marlon,CB,California,73,190,452,22,12,720,104,39,64,49
+4720,Deane,Riddick,CB,Penn State,70,182,452,19,12,744,106,37,64,46
+4721,Burke,Isaac,CB,Louisville,70,180,452,19,11,732,109,43,24,39
+4722,Mallak,Francisco,CB,Texas A&M,71,196,461,19,12,720,120,24,47,37
+4723,Fulcher,Winston,CB,Georgia,71,188,447,18,12,709,107,38,35,44
+4724,Fairbanks,Sean,CB,Missouri,72,200,449,25,9,722,108,50,47,46
+4725,Craft,Brock,CB,Florida State,70,191,431,12,13,722,107,59,61,61
+4726,Lincoln,Ellis,CB,Memphis,69,182,446,18,10,727,105,50,38,45
+4727,Burns,Fernando,CB,Millersville,69,188,464,28,9,752,106,43,62,36
+4728,Collier,Johnnie,CB,Miami  Florida,70,179,453,18,10,718,109,41,46,43
+4729,Fredrickson,Donnie,CB,Southern California,71,190,445,34,13,696,112,41,30,50
+4730,Miller,Alfred,CB,Michigan,70,179,459,25,14,737,106,41,52,40
+4731,Kaplan,Dashawn,CB,Winona State,71,192,454,27,12,708,103,37,40,41
+4732,Flannery,Julio,CB,Syracuse,71,186,442,33,15,717,116,49,46,48
+4733,Quinn,Tanner,CB,Boston College,70,185,450,36,12,717,109,42,37,48
+4734,Wilson,Nathan,CB,Vanderbilt,71,186,457,19,6,751,107,27,51,29
+4735,Lane,Ian,CB,Mississippi State,74,189,445,31,12,720,109,45,34,47
+4736,Hampton,Sawyer,CB,Texas Christian,70,183,452,28,15,720,105,46,36,50
+4737,Wooden,Kaleb,S,Georgia,71,202,459,38,15,750,99,43,48,38
+4738,Bridges,Amir,S,Southern Mississippi,68,198,453,40,18,735,104,53,39,42
+4739,Truc,Victor,S,Rutgers,71,199,459,36,12,735,97,30,27,32
+4740,Solorio,Ty,S,Texas Tech,71,197,469,25,15,762,102,26,26,24
+4741,Foster,Phillip,S,Nebraska,72,213,458,28,14,730,94,40,32,35
+4742,Garcia,Nicolas,S,Arizona State,73,211,454,37,16,726,100,45,20,45
+4743,Woodard,Lawrence,S,Mississippi State,72,205,459,26,9,771,97,29,48,26
+4744,Cailao,Kenny,S,Ohio State,73,215,472,26,17,719,98,34,54,41
+4745,Endres,Mercury,S,Arkansas,72,205,458,33,18,734,100,14,37,36
+4746,O'Neill,Zachary,S,Wake Forest,69,202,0,22,0,0,0,0,49,39
+4747,Crouch,Tito,S,Louisiana State,74,223,459,19,15,732,101,39,15,36
+4748,Gaines,Walter,S,St. Thomas  Minn.,67,201,452,26,11,734,108,22,54,40
+4749,Cobb,Ian,S,Wisconsin,72,206,460,33,12,718,103,44,21,41
+4750,Grenda,Allen,S,Rutgers,71,197,456,34,19,724,100,46,41,42
+4751,Griffith,Ike,S,UCLA,71,201,456,33,13,722,112,46,16,41
+4752,Staley,Cornell,S,Oklahoma,72,205,457,35,12,735,99,40,37,36
+4753,West,Landon,S,San Jose State,72,206,459,27,9,735,94,40,15,31
+4754,Schott,Adrian,S,Texas A&M,72,200,463,26,12,754,95,40,36,32
+4755,Daniels,Sergio,S,Stanford,72,203,452,34,24,718,98,42,48,48
+4756,Swartz,Gino,S,New Mexico State,71,204,453,35,15,751,99,51,39,42
+4757,Atkins,Austin,S,Nevada - Las Vegas,71,198,455,28,12,756,100,40,49,35
+4758,Elder,Mario,S,New Mexico State,70,204,457,26,16,729,105,39,47,40
+4759,Carr,Tyler,S,San Diego State,71,199,453,30,15,744,100,40,27,34
+4760,Vance,Darren,S,Louisiana - Lafayette,72,206,461,16,10,741,97,42,21,27
+4761,Maloney,J.B.,S,East Carolina,72,205,473,30,16,746,98,16,43,30
+4762,Butler,Blake,S,Rutgers,71,190,0,32,0,0,0,38,39,38
+4763,Newsome,Mike,S,North Carolina,69,188,454,25,10,738,96,51,51,43
+4764,Bonham,Hector,S,Henderson State,72,208,455,28,16,735,99,29,55,38
+4765,Humphrey,Toby,S,Nevada - Las Vegas,72,207,456,38,17,748,98,42,43,42
+4766,Burke,Devonte,S,Air Force,73,219,439,45,26,694,97,48,26,60
+4767,Martinez,Herb,S,St. Francis  Pa.,69,190,474,26,21,704,103,52,51,47
+4768,Foster,Rondell,S,Kansas,72,204,0,15,0,0,0,45,20,28
+4769,Bocaling,Thomas,S,California,72,206,468,46,15,721,96,33,15,38
+4770,Davis,Edward,S,Washington,74,210,468,41,16,735,100,31,28,32
+4771,Reeves,Claude,S,Kentucky,70,205,455,42,14,758,101,41,7,30
+4772,Daniels,Vinny,S,Illinois,71,192,0,31,0,0,0,0,25,29
+4773,Arnold,Vince,S,Cincinnati,71,198,460,43,15,726,101,43,43,44
+4774,Schwarzhaupt,Tink,S,Mississippi State,73,211,457,32,15,740,96,46,20,35
+4775,Shannon,C.J.,S,Missouri,75,211,479,22,10,754,96,36,48,27
+4776,Burton,Geoff,S,California,68,199,459,34,15,728,94,48,51,46
+4777,Upshaw,Gustavo,S,Alabama,68,197,458,12,11,780,97,40,61,28
+4778,Bailey,Levi,S,Alabama,71,190,480,24,11,735,97,24,35,27
+4779,Walsh,Brad,S,Virginia,69,193,459,14,15,734,97,43,67,44
+4780,Peterson,Broderick,S,Texas Christian,67,202,459,26,15,735,95,38,37,38
+4781,Welch,Salvador,S,Alabama,69,193,459,38,13,729,97,46,52,45
+4782,McCarthy,Percy,S,Nebraska,72,203,465,24,12,774,99,41,53,30
+4783,Newman,Devante,S,North Carolina State,71,201,463,44,20,722,98,47,27,44
+4784,Newman,Weston,S,Rutgers,72,205,481,26,15,757,103,30,37,28
+4785,Carlson,Gary,S,Alabama,72,211,454,26,12,754,97,45,28,35
+4786,Witt,Ian,S,Colorado,72,206,459,31,13,762,94,20,26,23
+4787,Carter,Tyrell,S,Rice,73,204,459,14,17,713,100,39,57,47
+4788,Duran,Spencer,S,Boston College,68,199,481,22,11,779,96,27,45,19
+4789,Theriault,Miguel,S,Syracuse,71,202,468,33,15,735,96,43,33,34
+4790,Kanyuh,Carson,S,Duke,69,197,0,26,0,0,0,42,53,39
+4791,Vaughn,Bryan,S,Tulane,74,213,456,29,16,724,97,32,46,44
+4792,Ogden,Cesar,S,Oklahoma State,72,212,447,35,17,721,98,34,32,40

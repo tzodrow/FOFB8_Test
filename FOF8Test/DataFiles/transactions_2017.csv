@@ -1,0 +1,864 @@
+Stage,Year,Player_ID,Transaction,Team,Position_Group,Money,Years/Original_Position,Original_Team/Destination_Position/Misc.
+Pre-Training Camp,2017,2242,signed as a free agent,3,ILB,47,1,0
+Pre-Training Camp,2017,2423,signed as a free agent,3,RB,47,1,0
+Pre-Training Camp,2017,3083,signed as a free agent,3,CB,47,1,0
+Pre-Training Camp,2017,2304,signed as a free agent,3,CB,47,1,0
+Pre-Training Camp,2017,1946,signed as a free agent,3,TE,47,1,0
+Pre-Training Camp,2017,2968,signed as a free agent,3,ILB,47,1,0
+Pre-Training Camp,2017,2771,signed as a free agent,3,T,47,1,0
+Pre-Training Camp,2017,3080,signed as a free agent,26,CB,47,1,0
+Pre-Training Camp,2017,2427,signed as a free agent,26,RB,47,1,0
+Pre-Training Camp,2017,2765,signed as a free agent,26,T,47,1,0
+Pre-Training Camp,2017,2180,signed as a free agent,26,DT,47,1,0
+Pre-Training Camp,2017,2648,signed as a free agent,21,C,47,1,0
+Pre-Training Camp,2017,2982,signed as a free agent,6,ILB,47,1,0
+Pre-Training Camp,2017,1938,signed as a free agent,6,FB,47,1,0
+Pre-Training Camp,2017,2010,signed as a free agent,6,T,47,1,0
+Pre-Training Camp,2017,3101,signed as a free agent,18,CB,47,1,0
+Pre-Training Camp,2017,2451,signed as a free agent,18,FB,47,1,0
+Pre-Training Camp,2017,2963,signed as a free agent,18,ILB,47,1,0
+Pre-Training Camp,2017,1984,signed as a free agent,18,WR,47,1,0
+Pre-Training Camp,2017,2489,signed as a free agent,18,TE,47,1,0
+Pre-Training Camp,2017,1939,signed as a free agent,27,FB,47,1,0
+Pre-Training Camp,2017,2538,signed as a free agent,27,WR,47,1,0
+Pre-Training Camp,2017,2715,signed as a free agent,27,T,47,1,0
+Pre-Training Camp,2017,2295,signed as a free agent,27,CB,47,1,0
+Pre-Training Camp,2017,2230,signed as a free agent,27,ILB,47,1,0
+Pre-Training Camp,2017,2064,signed as a free agent,27,G,47,1,0
+Pre-Training Camp,2017,2746,signed as a free agent,8,T,47,1,0
+Pre-Training Camp,2017,3059,signed as a free agent,8,CB,47,1,0
+Pre-Training Camp,2017,3171,signed as a free agent,8,S,47,1,0
+Pre-Training Camp,2017,1920,signed as a free agent,11,FB,47,1,0
+Pre-Training Camp,2017,2130,signed as a free agent,11,DT,47,1,0
+Pre-Training Camp,2017,2527,signed as a free agent,11,TE,47,1,0
+Pre-Training Camp,2017,2564,signed as a free agent,11,WR,47,1,0
+Pre-Training Camp,2017,2847,signed as a free agent,11,DE,47,1,0
+Pre-Training Camp,2017,2907,signed as a free agent,11,DT,47,1,0
+Pre-Training Camp,2017,2742,signed as a free agent,13,T,47,1,0
+Pre-Training Camp,2017,2184,signed as a free agent,13,DT,47,1,0
+Pre-Training Camp,2017,2458,signed as a free agent,14,FB,47,1,0
+Pre-Training Camp,2017,2717,signed as a free agent,14,T,47,1,0
+Pre-Training Camp,2017,1768,released,14,S,0,0,0
+Pre-Training Camp,2017,3075,signed as a free agent,23,CB,47,1,0
+Pre-Training Camp,2017,2628,signed as a free agent,23,C,47,1,0
+Pre-Training Camp,2017,2923,signed as a free agent,28,DT,47,1,0
+Pre-Training Camp,2017,626,released,28,ILB,0,0,0
+Pre-Training Camp,2017,2442,signed as a free agent,22,RB,47,1,0
+Pre-Training Camp,2017,2499,signed as a free agent,22,TE,47,1,0
+Pre-Training Camp,2017,2145,signed as a free agent,22,DT,47,1,0
+Pre-Training Camp,2017,2196,signed as a free agent,22,DT,47,1,0
+Pre-Training Camp,2017,2159,signed as a free agent,22,DT,47,1,0
+Pre-Training Camp,2017,2433,signed as a free agent,30,RB,47,1,0
+Pre-Training Camp,2017,2463,signed as a free agent,0,FB,47,1,0
+Pre-Training Camp,2017,3089,signed as a free agent,0,CB,47,1,0
+Pre-Training Camp,2017,2649,signed as a free agent,25,C,47,1,0
+Pre-Training Camp,2017,1957,signed as a free agent,12,TE,47,1,0
+Pre-Training Camp,2017,2266,signed as a free agent,12,ILB,47,1,0
+Pre-Training Camp,2017,2071,signed as a free agent,12,T,47,1,0
+Pre-Training Camp,2017,2066,signed as a free agent,12,G,47,1,0
+Pre-Training Camp,2017,2386,signed as a free agent,12,QB,47,1,0
+Pre-Training Camp,2017,2609,signed as a free agent,9,WR,47,1,0
+Pre-Training Camp,2017,1917,signed as a free agent,9,FB,47,1,0
+Pre-Training Camp,2017,1966,signed as a free agent,9,TE,47,1,0
+Pre-Training Camp,2017,1856,signed as a free agent,9,QB,47,1,0
+Pre-Training Camp,2017,2704,signed as a free agent,9,G,47,1,0
+Pre-Training Camp,2017,1949,signed as a free agent,16,TE,47,1,0
+Pre-Training Camp,2017,2621,signed as a free agent,16,C,47,1,0
+Pre-Training Camp,2017,1517,released,16,G,0,0,0
+Pre-Training Camp,2017,412,released,16,S,0,0,0
+Pre-Training Camp,2017,542,released,16,RB,0,0,0
+Pre-Training Camp,2017,2414,signed as a free agent,10,RB,47,1,0
+Pre-Training Camp,2017,2060,signed as a free agent,10,G,47,1,0
+Pre-Training Camp,2017,2529,signed as a free agent,10,TE,47,1,0
+Pre-Training Camp,2017,2139,signed as a free agent,10,DT,47,1,0
+Pre-Training Camp,2017,1715,released,10,T,0,0,0
+Pre-Training Camp,2017,1601,released,2,CB,0,0,0
+Pre-Training Camp,2017,386,released,2,G,0,0,0
+Pre-Training Camp,2017,1963,signed as a free agent,24,TE,47,1,0
+Pre-Training Camp,2017,2773,signed as a free agent,7,T,47,1,0
+Pre-Training Camp,2017,1914,signed as a free agent,7,FB,47,1,0
+Pre-Training Camp,2017,2703,signed as a free agent,7,G,47,1,0
+Pre-Training Camp,2017,1953,signed as a free agent,31,TE,47,1,0
+Pre-Training Camp,2017,1865,signed as a free agent,31,QB,47,1,0
+Pre-Training Camp,2017,2561,signed as a free agent,31,WR,47,1,0
+Pre-Training Camp,2017,2928,signed as a free agent,31,DT,47,1,0
+Pre-Training Camp,2017,2910,signed as a free agent,31,DT,47,1,0
+Pre-Training Camp,2017,2148,signed as a free agent,31,DT,47,1,0
+Pre-Training Camp,2017,666,released,31,RB,0,0,0
+Pre-Training Camp,2017,2263,signed as a free agent,4,ILB,47,1,0
+Pre-Training Camp,2017,2595,signed as a free agent,4,WR,47,1,0
+Pre-Training Camp,2017,2199,signed as a free agent,29,DT,47,1,0
+Pre-Training Camp,2017,2126,signed as a free agent,29,DT,47,1,0
+Pre-Training Camp,2017,2286,signed as a free agent,5,OLB,47,1,0
+Pre-Training Camp,2017,2934,signed as a free agent,5,DT,47,1,0
+Pre-Training Camp,2017,2912,signed as a free agent,5,DT,47,1,0
+Pre-Training Camp,2017,1252,released,5,CB,0,0,0
+Pre-Training Camp,2017,2481,signed as a free agent,15,FB,47,1,0
+Pre-Training Camp,2017,2638,signed as a free agent,15,C,47,1,0
+Pre-Training Camp,2017,1923,signed as a free agent,1,FB,47,1,0
+Pre-Training Camp,2017,2277,signed as a free agent,1,ILB,47,1,0
+Pre-Training Camp,2017,2502,signed as a free agent,1,TE,47,1,0
+Pre-Training Camp,2017,2667,signed as a free agent,1,G,47,1,0
+Pre-Training Camp,2017,2249,signed as a free agent,17,ILB,47,1,0
+Pre-Training Camp,2017,1944,signed as a free agent,17,TE,47,1,0
+Pre-Training Camp,2017,2711,signed as a free agent,17,G,47,1,0
+Pre-Training Camp,2017,2815,signed as a free agent,17,K,47,1,0
+Pre-Training Camp,2017,1992,signed as a free agent,17,WR,47,1,0
+Pre-Training Camp,2017,2077,signed as a free agent,17,T,47,1,0
+Pre-Training Camp,2017,2651,signed as a free agent,17,C,47,1,0
+Pre-Training Camp,2017,788,released,20,G,0,0,0
+Pre-Training Camp,2017,2048,signed as a free agent,20,C,47,1,0
+Pre-Training Camp,2017,2676,signed as a free agent,20,G,47,1,0
+Pre-Training Camp,2017,2601,signed as a free agent,20,WR,47,1,0
+Pre-Training Camp,2017,1999,signed as a free agent,20,WR,47,1,0
+Pre-Training Camp,2017,1921,signed as a free agent,19,FB,47,1,0
+Pre-Training Camp,2017,2509,signed as a free agent,19,TE,47,1,0
+Pre-Training Camp,2017,2314,signed as a free agent,10,S,47,1,99
+Pre-Training Camp,2017,3087,signed as a free agent,10,CB,47,1,99
+Pre-Training Camp,2017,2271,signed as a free agent,10,ILB,47,1,99
+Pre-Training Camp,2017,1845,signed as a free agent,10,QB,47,1,99
+Pre-Training Camp,2017,2469,signed as a free agent,10,FB,47,1,99
+Pre-Training Camp,2017,2039,signed as a free agent,10,C,47,1,99
+Pre-Training Camp,2017,2726,signed as a free agent,10,T,47,1,99
+Pre-Training Camp,2017,2090,signed as a free agent,10,P,47,1,99
+Pre-Training Camp,2017,2229,signed as a free agent,10,ILB,47,1,99
+Pre-Training Camp,2017,2312,signed as a free agent,10,S,47,1,99
+Pre-Training Camp,2017,159,released,10,DE,0,0,0
+Pre-Training Camp,2017,1185,released,10,QB,0,0,0
+Pre-Training Camp,2017,1168,released,10,S,0,0,0
+Pre-Training Camp,2017,2326,signed as a free agent,10,C,47,1,99
+Pre-Training Camp,2017,1718,released,10,C,0,0,0
+Pre-Training Camp,2017,1320,released,10,DE,0,0,0
+Pre-Training Camp,2017,1113,released,10,ILB,0,0,0
+Pre-Training Camp,2017,1344,released,10,T,0,0,0
+Pre-Training Camp,2017,557,released,10,DT,0,0,0
+Pre-Training Camp,2017,1227,released,10,S,0,0,0
+Pre-Training Camp,2017,1458,released,10,C,0,0,0
+Pre-Training Camp,2017,659,released,10,T,0,0,0
+Pre-Training Camp,2017,1673,released,10,RB,0,0,0
+Pre-Training Camp,2017,2197,signed as a free agent,10,DT,47,1,99
+Pre-Training Camp,2017,2139,changed primary position,10,DE,0,LDT,RDE
+Pre-Training Camp,2017,1452,changed primary position,10,DE,0,RDE,LDE
+Pre-Training Camp,2017,2197,changed primary position,10,DE,0,RDT,RDE
+Pre-Training Camp,2017,2229,changed primary position,10,OLB,0,MLB,WLB
+Pre-Training Camp,2017,2271,changed primary position,10,ILB,0,MLB,WILB
+Pre-Training Camp,2017,1228,changed primary position,10,ILB,0,WLB,SILB
+Pre-Training Camp,2017,2203,signed as a free agent,10,DT,47,1,0
+Pre-Training Camp,2017,2165,signed as a free agent,10,DT,47,1,0
+Pre-Training Camp,2017,1711,released,10,OLB,0,0,0
+Pre-Training Camp,2017,3087,released,10,CB,0,0,0
+Pre-Training Camp,2017,2982,changed primary position,6,OLB,0,WILB,SLB
+Pre-Training Camp,2017,2907,changed primary position,11,DE,0,LDT,LDE
+Pre-Training Camp,2017,2963,changed primary position,18,OLB,0,WILB,SLB
+Pre-Training Camp,2017,2145,changed primary position,22,DT,0,LDT,NT
+Pre-Training Camp,2017,2159,changed primary position,22,DT,0,LDT,NT
+Pre-Training Camp,2017,2196,changed primary position,22,DT,0,RDT,NT
+Pre-Training Camp,2017,2180,changed primary position,26,DT,0,RDT,NT
+Pre-Training Camp,2017,2126,changed primary position,29,DT,0,LDT,NT
+Pre-Training Camp,2017,1812,changed primary position,0,WR,0,SE,FL
+Pre-Training Camp,2017,231,changed primary position,0,G,0,LG,RG
+Pre-Training Camp,2017,448,changed primary position,0,OLB,0,SLB,WLB
+Pre-Training Camp,2017,544,changed primary position,0,ILB,0,WILB,SILB
+Pre-Training Camp,2017,1588,changed primary position,1,G,0,LG,RG
+Pre-Training Camp,2017,1097,changed primary position,1,T,0,LT,RT
+Pre-Training Camp,2017,1682,changed primary position,1,DT,0,LDE,LDT
+Pre-Training Camp,2017,482,changed primary position,1,DT,0,LDT,RDT
+Pre-Training Camp,2017,1011,changed primary position,2,G,0,LG,RG
+Pre-Training Camp,2017,1401,changed primary position,2,T,0,LT,RT
+Pre-Training Camp,2017,1529,changed primary position,3,T,0,RT,LT
+Pre-Training Camp,2017,977,changed primary position,4,WR,0,FL,SE
+Pre-Training Camp,2017,452,changed primary position,4,T,0,LT,RT
+Pre-Training Camp,2017,208,changed primary position,4,S,0,FS,SS
+Pre-Training Camp,2017,79,changed primary position,4,DE,0,LDE,RDE
+Pre-Training Camp,2017,517,changed primary position,5,WR,0,SE,FL
+Pre-Training Camp,2017,1233,changed primary position,5,OLB,0,WLB,SLB
+Pre-Training Camp,2017,2010,changed primary position,6,T,0,LT,RT
+Pre-Training Camp,2017,195,changed primary position,6,DT,0,RDT,LDT
+Pre-Training Camp,2017,403,changed primary position,7,DE,0,RDE,LDE
+Pre-Training Camp,2017,1020,changed primary position,7,S,0,FS,SS
+Pre-Training Camp,2017,805,changed primary position,7,DT,0,LDE,LDT
+Pre-Training Camp,2017,1499,changed primary position,7,DT,0,RDE,RDT
+Pre-Training Camp,2017,1476,changed primary position,8,T,0,LT,RT
+Pre-Training Camp,2017,3171,changed primary position,8,S,0,FS,SS
+Pre-Training Camp,2017,1085,changed primary position,8,ILB,0,WLB,WILB
+Pre-Training Camp,2017,1574,changed primary position,9,WR,0,SE,FL
+Pre-Training Camp,2017,1210,changed primary position,9,T,0,RT,LT
+Pre-Training Camp,2017,1737,changed primary position,9,OLB,0,SLB,WLB
+Pre-Training Camp,2017,576,changed primary position,9,CB,0,LCB,RCB
+Pre-Training Camp,2017,696,changed primary position,10,WR,0,SE,FL
+Pre-Training Camp,2017,47,changed primary position,10,G,0,RG,LG
+Pre-Training Camp,2017,733,changed primary position,10,S,0,FS,SS
+Pre-Training Camp,2017,2165,changed primary position,10,DT,0,RDT,NT
+Pre-Training Camp,2017,2847,changed primary position,11,DE,0,RDE,LDE
+Pre-Training Camp,2017,148,changed primary position,11,CB,0,RCB,LCB
+Pre-Training Camp,2017,2130,changed primary position,11,DT,0,LDT,NT
+Pre-Training Camp,2017,582,changed primary position,11,ILB,0,LDE,WILB
+Pre-Training Camp,2017,934,changed primary position,12,G,0,RG,LG
+Pre-Training Camp,2017,421,changed primary position,12,S,0,FS,SS
+Pre-Training Camp,2017,975,changed primary position,12,DT,0,LDE,LDT
+Pre-Training Camp,2017,1463,changed primary position,14,G,0,RG,LG
+Pre-Training Camp,2017,390,changed primary position,14,DE,0,RDE,LDE
+Pre-Training Camp,2017,263,changed primary position,14,DT,0,LDT,RDT
+Pre-Training Camp,2017,525,changed primary position,14,OLB,0,WLB,SLB
+Pre-Training Camp,2017,241,changed primary position,16,S,0,FS,SS
+Pre-Training Camp,2017,816,changed primary position,16,DT,0,RDE,LDT
+Pre-Training Camp,2017,972,changed primary position,16,DT,0,RDE,RDT
+Pre-Training Camp,2017,928,changed primary position,16,DE,0,RDT,RDE
+Pre-Training Camp,2017,1653,changed primary position,17,CB,0,LCB,RCB
+Pre-Training Camp,2017,1156,changed primary position,17,S,0,FS,SS
+Pre-Training Camp,2017,954,changed primary position,17,DT,0,RDT,LDT
+Pre-Training Camp,2017,1596,changed primary position,17,DE,0,LDE,RDE
+Pre-Training Camp,2017,1461,changed primary position,17,OLB,0,WLB,SLB
+Pre-Training Camp,2017,1789,changed primary position,18,DT,0,RDT,LDT
+Pre-Training Camp,2017,430,changed primary position,18,DT,0,LDT,RDT
+Pre-Training Camp,2017,487,changed primary position,18,OLB,0,WLB,SLB
+Pre-Training Camp,2017,399,changed primary position,19,CB,0,RCB,LCB
+Pre-Training Camp,2017,721,changed primary position,19,S,0,SS,FS
+Pre-Training Camp,2017,1284,changed primary position,19,OLB,0,WLB,SLB
+Pre-Training Camp,2017,2676,changed primary position,20,G,0,LG,RG
+Pre-Training Camp,2017,493,changed primary position,20,OLB,0,SLB,WLB
+Pre-Training Camp,2017,1697,changed primary position,20,S,0,SS,FS
+Pre-Training Camp,2017,965,changed primary position,20,DT,0,RDE,LDT
+Pre-Training Camp,2017,1429,changed primary position,20,DE,0,LDE,RDE
+Pre-Training Camp,2017,1337,changed primary position,21,CB,0,LCB,RCB
+Pre-Training Camp,2017,401,changed primary position,21,DT,0,RDT,LDT
+Pre-Training Camp,2017,793,changed primary position,21,DT,0,LDT,RDT
+Pre-Training Camp,2017,784,changed primary position,22,T,0,RT,LT
+Pre-Training Camp,2017,226,changed primary position,22,CB,0,LCB,RCB
+Pre-Training Camp,2017,1806,changed primary position,22,OLB,0,WLB,SLB
+Pre-Training Camp,2017,688,changed primary position,22,ILB,0,WILB,SILB
+Pre-Training Camp,2017,193,changed primary position,22,ILB,0,RDE,WILB
+Pre-Training Camp,2017,884,changed primary position,23,CB,0,LCB,RCB
+Pre-Training Camp,2017,1172,changed primary position,23,ILB,0,WILB,SILB
+Pre-Training Camp,2017,665,changed primary position,24,T,0,LT,RT
+Pre-Training Camp,2017,637,changed primary position,24,DT,0,RDT,LDT
+Pre-Training Camp,2017,1382,changed primary position,25,CB,0,LCB,RCB
+Pre-Training Camp,2017,1112,changed primary position,25,S,0,SS,FS
+Pre-Training Camp,2017,382,changed primary position,26,S,0,SS,FS
+Pre-Training Camp,2017,270,changed primary position,27,S,0,FS,SS
+Pre-Training Camp,2017,647,changed primary position,27,DT,0,RDT,LDT
+Pre-Training Camp,2017,1399,changed primary position,27,DE,0,LDE,RDE
+Pre-Training Camp,2017,1523,changed primary position,28,WR,0,FL,SE
+Pre-Training Camp,2017,1215,changed primary position,28,OLB,0,SLB,WLB
+Pre-Training Camp,2017,554,changed primary position,28,S,0,SS,FS
+Pre-Training Camp,2017,898,changed primary position,28,ILB,0,WILB,SILB
+Pre-Training Camp,2017,1214,changed primary position,29,WR,0,SE,FL
+Pre-Training Camp,2017,1193,changed primary position,30,WR,0,FL,SE
+Pre-Training Camp,2017,376,changed primary position,30,G,0,RG,LG
+Pre-Training Camp,2017,1467,changed primary position,30,T,0,LT,RT
+Pre-Training Camp,2017,1565,changed primary position,30,DE,0,RDE,LDE
+Pre-Training Camp,2017,658,changed primary position,30,CB,0,RCB,LCB
+Pre-Training Camp,2017,933,changed primary position,30,S,0,SS,FS
+Pre-Training Camp,2017,802,changed primary position,30,OLB,0,WLB,SLB
+Pre-Training Camp,2017,1522,changed primary position,31,T,0,RT,LT
+Pre-Training Camp,2017,233,changed primary position,31,CB,0,RCB,LCB
+Pre-Training Camp,2017,1803,changed primary position,31,DE,0,LDE,RDE
+Pre-Training Camp,2017,1047,changed primary position,31,ILB,0,WILB,SILB
+Ex. Season Week 1,2017,47,signed a renegotiated contract,10,G,1672,2,0
+Ex. Season Week 1,2017,733,signed a renegotiated contract,10,S,2666,3,0
+Ex. Season Week 1,2017,696,signed a renegotiated contract,10,WR,5448,5,0
+Ex. Season Week 1,2017,315,signed a renegotiated contract,10,CB,946,4,0
+Ex. Season Week 1,2017,2469,released,10,FB,0,0,0
+Ex. Season Week 1,2017,2469,signed as a free agent,10,FB,47,1,99
+Ex. Season Week 1,2017,2203,changed primary position,10,DT,0,RDT,NT
+Ex. Season Week 2,2017,1732,released,9,P,0,0,0
+Ex. Season Week 2,2017,2953,signed as a free agent,9,ILB,47,1,0
+Ex. Season Week 2,2017,1322,released,17,P,0,0,0
+Ex. Season Week 2,2017,2267,signed as a free agent,17,ILB,47,1,0
+Ex. Season Week 2,2017,1796,released,10,P,0,0,0
+Ex. Season Week 2,2017,2429,signed as a free agent,10,RB,47,1,0
+Ex. Season Week 2,2017,656,released,21,K,0,0,0
+Ex. Season Week 2,2017,2272,signed as a free agent,21,ILB,47,1,0
+Ex. Season Week 3,2017,2784,signed as a free agent,10,P,47,1,99
+Ex. Season Week 3,2017,2090,released,10,P,0,0,0
+Ex. Season Week 3,2017,207,released,10,S,0,0,0
+Ex. Season Week 3,2017,2316,signed as a free agent,10,S,47,1,99
+Ex. Season Week 3,2017,2229,released,10,OLB,0,0,0
+Ex. Season Week 3,2017,3079,signed as a free agent,10,CB,47,1,99
+Ex. Season Week 3,2017,2629,signed as a free agent,19,C,47,1,0
+Ex. Season Week 3,2017,867,released,19,ILB,0,0,0
+Ex. Season Week 4,2017,2312,released,10,S,0,0,0
+Ex. Season Week 4,2017,3161,signed as a free agent,10,S,47,1,99
+Ex. Season Week 4,2017,2314,released,10,S,0,0,0
+Ex. Season Week 4,2017,3113,signed as a free agent,10,S,47,1,99
+Ex. Season Week 4,2017,2271,released,10,ILB,0,0,0
+Ex. Season Week 4,2017,2281,signed as a free agent,10,OLB,47,1,99
+Ex. Season Week 4,2017,481,released,10,OLB,0,0,0
+Ex. Season Week 4,2017,3038,signed as a free agent,10,OLB,47,1,99
+Ex. Season Week 4,2017,2892,signed as a free agent,23,DT,47,1,0
+Ex. Season Week 4,2017,1081,released,23,ILB,0,0,0
+Ex. Season Week 4,2017,2030,signed as a free agent,4,C,47,1,0
+Ex. Season Week 4,2017,1516,released,4,DE,0,0,0
+Ex. Season Week 5,2017,1208,released,10,WR,0,0,0
+Ex. Season Week 5,2017,1008,released,10,QB,0,0,0
+Ex. Season Week 5,2017,2469,released,10,FB,0,0,0
+Ex. Season Week 5,2017,1258,released,10,CB,0,0,0
+Ex. Season Week 5,2017,531,released,10,T,0,0,0
+Ex. Season Week 5,2017,791,released,10,WR,0,0,0
+Ex. Season Week 5,2017,1723,released,10,CB,0,0,0
+Ex. Season Week 5,2017,2414,released,10,RB,0,0,0
+Ex. Season Week 5,2017,1986,signed as a free agent,10,WR,47,1,99
+Ex. Season Week 5,2017,2269,signed as a free agent,6,ILB,47,1,0
+Ex. Season Week 5,2017,1158,released,6,DT,0,0,0
+Ex. Season Week 5,2017,2873,signed as a free agent,1,DE,47,1,0
+Ex. Season Week 5,2017,736,released,1,RB,0,0,0
+Ex. Season Week 5,2017,2689,signed as a free agent,16,G,47,1,0
+Ex. Season Week 5,2017,313,released,16,DE,0,0,0
+Ex. Season Week 5,2017,2987,signed as a free agent,18,ILB,47,1,0
+Ex. Season Week 5,2017,567,released,18,G,0,0,0
+Ex. Season Week 5,2017,2755,signed as a free agent,24,T,47,1,0
+Ex. Season Week 5,2017,1283,released,24,DT,0,0,0
+Reg. Season Week 1,2017,444,released,9,DE,0,0,0
+Reg. Season Week 1,2017,141,released,9,S,0,0,0
+Reg. Season Week 1,2017,287,released,9,ILB,0,0,0
+Reg. Season Week 1,2017,1432,released,9,RB,0,0,0
+Reg. Season Week 1,2017,1578,released,9,RB,0,0,0
+Reg. Season Week 1,2017,55,released,9,DT,0,0,0
+Reg. Season Week 1,2017,692,released,9,OLB,0,0,0
+Reg. Season Week 1,2017,2590,signed as a free agent,0,WR,47,1,0
+Reg. Season Week 1,2017,1717,released,0,RB,0,0,0
+Reg. Season Week 1,2017,1557,released,0,S,0,0,0
+Reg. Season Week 1,2017,1663,released,0,RB,0,0,0
+Reg. Season Week 1,2017,1007,released,0,T,0,0,0
+Reg. Season Week 1,2017,1690,released,0,CB,0,0,0
+Reg. Season Week 1,2017,895,released,0,RB,0,0,0
+Reg. Season Week 1,2017,1623,released,0,G,0,0,0
+Reg. Season Week 1,2017,1757,released,0,TE,0,0,0
+Reg. Season Week 1,2017,1313,released,5,CB,0,0,0
+Reg. Season Week 1,2017,1744,released,5,DE,0,0,0
+Reg. Season Week 1,2017,912,released,5,ILB,0,0,0
+Reg. Season Week 1,2017,334,released,5,OLB,0,0,0
+Reg. Season Week 1,2017,1692,released,5,RB,0,0,0
+Reg. Season Week 1,2017,926,released,5,TE,0,0,0
+Reg. Season Week 1,2017,1180,released,5,S,0,0,0
+Reg. Season Week 1,2017,642,released,1,T,0,0,0
+Reg. Season Week 1,2017,585,released,1,S,0,0,0
+Reg. Season Week 1,2017,1599,released,1,RB,0,0,0
+Reg. Season Week 1,2017,349,released,1,DE,0,0,0
+Reg. Season Week 1,2017,1014,released,1,DT,0,0,0
+Reg. Season Week 1,2017,1755,released,1,TE,0,0,0
+Reg. Season Week 1,2017,693,released,1,CB,0,0,0
+Reg. Season Week 1,2017,1014,signed as a free agent,6,DT,62,1,0
+Reg. Season Week 1,2017,1820,released,6,CB,0,0,0
+Reg. Season Week 1,2017,180,released,6,T,0,0,0
+Reg. Season Week 1,2017,125,released,6,DT,0,0,0
+Reg. Season Week 1,2017,1756,released,6,TE,0,0,0
+Reg. Season Week 1,2017,1100,released,6,CB,0,0,0
+Reg. Season Week 1,2017,1200,released,6,WR,0,0,0
+Reg. Season Week 1,2017,712,released,6,C,0,0,0
+Reg. Season Week 1,2017,1496,released,6,TE,0,0,0
+Reg. Season Week 1,2017,229,released,2,T,0,0,0
+Reg. Season Week 1,2017,1108,released,2,OLB,0,0,0
+Reg. Season Week 1,2017,1297,released,2,DE,0,0,0
+Reg. Season Week 1,2017,1195,released,2,RB,0,0,0
+Reg. Season Week 1,2017,461,released,2,S,0,0,0
+Reg. Season Week 1,2017,1762,released,2,G,0,0,0
+Reg. Season Week 1,2017,1187,released,2,CB,0,0,0
+Reg. Season Week 1,2017,1595,released,8,RB,0,0,0
+Reg. Season Week 1,2017,1443,released,8,RB,0,0,0
+Reg. Season Week 1,2017,1153,released,8,ILB,0,0,0
+Reg. Season Week 1,2017,1497,released,8,S,0,0,0
+Reg. Season Week 1,2017,804,released,8,WR,0,0,0
+Reg. Season Week 1,2017,1102,released,8,QB,0,0,0
+Reg. Season Week 1,2017,678,released,8,T,0,0,0
+Reg. Season Week 1,2017,963,released,23,ILB,0,0,0
+Reg. Season Week 1,2017,1190,released,23,G,0,0,0
+Reg. Season Week 1,2017,1042,released,23,OLB,0,0,0
+Reg. Season Week 1,2017,1331,released,23,S,0,0,0
+Reg. Season Week 1,2017,285,released,23,T,0,0,0
+Reg. Season Week 1,2017,179,released,23,G,0,0,0
+Reg. Season Week 1,2017,1714,released,23,OLB,0,0,0
+Reg. Season Week 1,2017,306,released,25,G,0,0,0
+Reg. Season Week 1,2017,586,released,25,CB,0,0,0
+Reg. Season Week 1,2017,1159,released,25,DE,0,0,0
+Reg. Season Week 1,2017,813,released,25,DE,0,0,0
+Reg. Season Week 1,2017,1684,released,25,RB,0,0,0
+Reg. Season Week 1,2017,1055,released,25,RB,0,0,0
+Reg. Season Week 1,2017,1782,released,25,WR,0,0,0
+Reg. Season Week 1,2017,990,released,4,CB,0,0,0
+Reg. Season Week 1,2017,681,released,4,RB,0,0,0
+Reg. Season Week 1,2017,1309,released,4,C,0,0,0
+Reg. Season Week 1,2017,1583,released,4,DE,0,0,0
+Reg. Season Week 1,2017,1128,released,4,T,0,0,0
+Reg. Season Week 1,2017,1570,released,4,QB,0,0,0
+Reg. Season Week 1,2017,916,released,4,RB,0,0,0
+Reg. Season Week 1,2017,891,released,26,DE,0,0,0
+Reg. Season Week 1,2017,1593,released,26,CB,0,0,0
+Reg. Season Week 1,2017,1526,released,26,RB,0,0,0
+Reg. Season Week 1,2017,1189,released,26,S,0,0,0
+Reg. Season Week 1,2017,1202,released,26,S,0,0,0
+Reg. Season Week 1,2017,1442,released,26,T,0,0,0
+Reg. Season Week 1,2017,994,released,26,ILB,0,0,0
+Reg. Season Week 1,2017,35,released,11,RB,0,0,0
+Reg. Season Week 1,2017,1638,released,11,G,0,0,0
+Reg. Season Week 1,2017,1363,released,11,OLB,0,0,0
+Reg. Season Week 1,2017,979,released,11,ILB,0,0,0
+Reg. Season Week 1,2017,911,released,11,DE,0,0,0
+Reg. Season Week 1,2017,1694,released,11,CB,0,0,0
+Reg. Season Week 1,2017,1800,released,11,QB,0,0,0
+Reg. Season Week 1,2017,1220,released,31,DT,0,0,0
+Reg. Season Week 1,2017,1385,released,31,OLB,0,0,0
+Reg. Season Week 1,2017,2910,released,31,DT,0,0,0
+Reg. Season Week 1,2017,1226,released,31,RB,0,0,0
+Reg. Season Week 1,2017,1028,released,31,T,0,0,0
+Reg. Season Week 1,2017,1152,released,31,TE,0,0,0
+Reg. Season Week 1,2017,552,released,31,S,0,0,0
+Reg. Season Week 1,2017,1365,released,12,CB,0,0,0
+Reg. Season Week 1,2017,920,released,12,DT,0,0,0
+Reg. Season Week 1,2017,1816,released,12,FB,0,0,0
+Reg. Season Week 1,2017,987,released,12,RB,0,0,0
+Reg. Season Week 1,2017,822,released,12,OLB,0,0,0
+Reg. Season Week 1,2017,1064,released,12,TE,0,0,0
+Reg. Season Week 1,2017,888,released,12,T,0,0,0
+Reg. Season Week 1,2017,1423,released,16,DT,0,0,0
+Reg. Season Week 1,2017,1609,released,16,FB,0,0,0
+Reg. Season Week 1,2017,388,released,16,RB,0,0,0
+Reg. Season Week 1,2017,292,released,16,T,0,0,0
+Reg. Season Week 1,2017,380,released,16,CB,0,0,0
+Reg. Season Week 1,2017,135,released,16,WR,0,0,0
+Reg. Season Week 1,2017,1742,released,16,OLB,0,0,0
+Reg. Season Week 1,2017,845,released,13,ILB,0,0,0
+Reg. Season Week 1,2017,766,released,13,G,0,0,0
+Reg. Season Week 1,2017,695,released,13,CB,0,0,0
+Reg. Season Week 1,2017,1685,released,13,S,0,0,0
+Reg. Season Week 1,2017,1543,released,13,ILB,0,0,0
+Reg. Season Week 1,2017,1397,released,13,ILB,0,0,0
+Reg. Season Week 1,2017,873,released,13,S,0,0,0
+Reg. Season Week 1,2017,451,released,3,RB,0,0,0
+Reg. Season Week 1,2017,194,released,3,S,0,0,0
+Reg. Season Week 1,2017,1678,released,3,T,0,0,0
+Reg. Season Week 1,2017,1649,released,3,OLB,0,0,0
+Reg. Season Week 1,2017,411,released,3,FB,0,0,0
+Reg. Season Week 1,2017,1545,released,3,S,0,0,0
+Reg. Season Week 1,2017,901,released,3,DT,0,0,0
+Reg. Season Week 1,2017,1051,released,19,S,0,0,0
+Reg. Season Week 1,2017,993,released,19,OLB,0,0,0
+Reg. Season Week 1,2017,1091,released,19,OLB,0,0,0
+Reg. Season Week 1,2017,545,released,19,RB,0,0,0
+Reg. Season Week 1,2017,1658,released,19,TE,0,0,0
+Reg. Season Week 1,2017,1410,released,19,DE,0,0,0
+Reg. Season Week 1,2017,294,released,19,ILB,0,0,0
+Reg. Season Week 1,2017,964,released,15,G,0,0,0
+Reg. Season Week 1,2017,1710,released,15,DE,0,0,0
+Reg. Season Week 1,2017,1478,released,15,DE,0,0,0
+Reg. Season Week 1,2017,1584,released,15,RB,0,0,0
+Reg. Season Week 1,2017,563,released,15,DT,0,0,0
+Reg. Season Week 1,2017,997,released,15,S,0,0,0
+Reg. Season Week 1,2017,1764,released,15,QB,0,0,0
+Reg. Season Week 1,2017,304,released,17,DT,0,0,0
+Reg. Season Week 1,2017,594,released,17,T,0,0,0
+Reg. Season Week 1,2017,702,released,17,S,0,0,0
+Reg. Season Week 1,2017,655,released,17,OLB,0,0,0
+Reg. Season Week 1,2017,319,released,17,RB,0,0,0
+Reg. Season Week 1,2017,1700,released,17,DE,0,0,0
+Reg. Season Week 1,2017,291,released,17,S,0,0,0
+Reg. Season Week 1,2017,286,released,7,T,0,0,0
+Reg. Season Week 1,2017,1012,released,7,DT,0,0,0
+Reg. Season Week 1,2017,863,released,7,ILB,0,0,0
+Reg. Season Week 1,2017,1107,released,7,RB,0,0,0
+Reg. Season Week 1,2017,708,released,7,CB,0,0,0
+Reg. Season Week 1,2017,1566,released,7,TE,0,0,0
+Reg. Season Week 1,2017,902,released,18,DE,0,0,0
+Reg. Season Week 1,2017,1413,released,18,DT,0,0,0
+Reg. Season Week 1,2017,1577,released,18,OLB,0,0,0
+Reg. Season Week 1,2017,742,released,18,RB,0,0,0
+Reg. Season Week 1,2017,1809,released,18,T,0,0,0
+Reg. Season Week 1,2017,1698,released,18,DE,0,0,0
+Reg. Season Week 1,2017,709,released,18,S,0,0,0
+Reg. Season Week 1,2017,1087,released,28,S,0,0,0
+Reg. Season Week 1,2017,1493,released,28,OLB,0,0,0
+Reg. Season Week 1,2017,1701,released,28,RB,0,0,0
+Reg. Season Week 1,2017,132,released,28,OLB,0,0,0
+Reg. Season Week 1,2017,104,released,28,WR,0,0,0
+Reg. Season Week 1,2017,509,released,28,QB,0,0,0
+Reg. Season Week 1,2017,1398,released,28,CB,0,0,0
+Reg. Season Week 1,2017,2385,signed as a free agent,20,QB,47,1,0
+Reg. Season Week 1,2017,826,released,20,S,0,0,0
+Reg. Season Week 1,2017,1044,released,20,CB,0,0,0
+Reg. Season Week 1,2017,493,released,20,OLB,0,0,0
+Reg. Season Week 1,2017,1253,released,20,CB,0,0,0
+Reg. Season Week 1,2017,1761,released,20,T,0,0,0
+Reg. Season Week 1,2017,117,released,20,RB,0,0,0
+Reg. Season Week 1,2017,1311,released,20,DT,0,0,0
+Reg. Season Week 1,2017,1590,released,20,S,0,0,0
+Reg. Season Week 1,2017,295,released,29,OLB,0,0,0
+Reg. Season Week 1,2017,308,released,29,OLB,0,0,0
+Reg. Season Week 1,2017,961,released,29,CB,0,0,0
+Reg. Season Week 1,2017,1610,released,29,CB,0,0,0
+Reg. Season Week 1,2017,1676,released,29,S,0,0,0
+Reg. Season Week 1,2017,1720,released,29,RB,0,0,0
+Reg. Season Week 1,2017,738,released,29,ILB,0,0,0
+Reg. Season Week 1,2017,1421,released,21,DT,0,0,0
+Reg. Season Week 1,2017,699,released,21,DT,0,0,0
+Reg. Season Week 1,2017,240,released,21,S,0,0,0
+Reg. Season Week 1,2017,1126,released,21,CB,0,0,0
+Reg. Season Week 1,2017,1048,released,21,DE,0,0,0
+Reg. Season Week 1,2017,1504,released,21,RB,0,0,0
+Reg. Season Week 1,2017,1728,released,21,RB,0,0,0
+Reg. Season Week 1,2017,1146,released,30,ILB,0,0,0
+Reg. Season Week 1,2017,1480,released,30,DT,0,0,0
+Reg. Season Week 1,2017,1049,released,30,DT,0,0,0
+Reg. Season Week 1,2017,1291,released,30,CB,0,0,0
+Reg. Season Week 1,2017,1269,released,30,OLB,0,0,0
+Reg. Season Week 1,2017,1486,released,30,OLB,0,0,0
+Reg. Season Week 1,2017,1706,released,30,S,0,0,0
+Reg. Season Week 1,2017,823,released,22,DT,0,0,0
+Reg. Season Week 1,2017,973,released,22,ILB,0,0,0
+Reg. Season Week 1,2017,250,released,22,OLB,0,0,0
+Reg. Season Week 1,2017,688,released,22,ILB,0,0,0
+Reg. Season Week 1,2017,1805,released,22,RB,0,0,0
+Reg. Season Week 1,2017,74,released,22,CB,0,0,0
+Reg. Season Week 1,2017,490,released,22,CB,0,0,0
+Reg. Season Week 1,2017,1792,released,24,S,0,0,0
+Reg. Season Week 1,2017,664,released,24,CB,0,0,0
+Reg. Season Week 1,2017,1759,released,24,G,0,0,0
+Reg. Season Week 1,2017,1368,released,24,RB,0,0,0
+Reg. Season Week 1,2017,1276,released,24,C,0,0,0
+Reg. Season Week 1,2017,1324,released,24,RB,0,0,0
+Reg. Season Week 1,2017,689,released,24,TE,0,0,0
+Reg. Season Week 1,2017,167,released,14,ILB,0,0,0
+Reg. Season Week 1,2017,1687,released,14,CB,0,0,0
+Reg. Season Week 1,2017,697,released,14,CB,0,0,0
+Reg. Season Week 1,2017,894,released,14,RB,0,0,0
+Reg. Season Week 1,2017,1783,released,14,DT,0,0,0
+Reg. Season Week 1,2017,1525,released,14,G,0,0,0
+Reg. Season Week 1,2017,118,released,14,QB,0,0,0
+Reg. Season Week 1,2017,261,released,27,G,0,0,0
+Reg. Season Week 1,2017,486,released,27,S,0,0,0
+Reg. Season Week 1,2017,1095,released,27,DE,0,0,0
+Reg. Season Week 1,2017,1624,released,27,S,0,0,0
+Reg. Season Week 1,2017,1155,released,27,RB,0,0,0
+Reg. Season Week 1,2017,244,released,27,DT,0,0,0
+Reg. Season Week 1,2017,1396,released,27,CB,0,0,0
+Reg. Season Week 2,2017,411,signed as a free agent,4,FB,78,1,0
+Reg. Season Week 2,2017,1039,released,4,ILB,0,0,0
+Reg. Season Week 2,2017,563,signed as a free agent,3,DT,78,1,0
+Reg. Season Week 2,2017,375,released,3,CB,0,0,0
+Reg. Season Week 2,2017,2861,signed as a free agent,27,DE,47,1,0
+Reg. Season Week 2,2017,1163,released,27,OLB,0,0,0
+Reg. Season Week 2,2017,2859,signed as a free agent,2,DE,47,1,0
+Reg. Season Week 2,2017,1037,released,2,WR,0,0,0
+Reg. Season Week 2,2017,3164,signed as a free agent,30,S,47,1,0
+Reg. Season Week 2,2017,481,signed as a free agent,30,OLB,78,1,0
+Reg. Season Week 2,2017,1725,released,30,CB,0,0,0
+Reg. Season Week 2,2017,1129,released,30,WR,0,0,0
+Reg. Season Week 2,2017,2211,signed as a free agent,18,DE,47,1,0
+Reg. Season Week 2,2017,800,released,18,OLB,0,0,0
+Reg. Season Week 2,2017,2882,signed as a free agent,9,DE,47,1,0
+Reg. Season Week 2,2017,2836,signed as a free agent,9,DE,47,1,0
+Reg. Season Week 2,2017,1794,released,9,DE,0,0,0
+Reg. Season Week 2,2017,1454,released,9,CB,0,0,0
+Reg. Season Week 2,2017,1309,signed as a free agent,6,C,54,1,0
+Reg. Season Week 2,2017,2177,signed as a free agent,6,DT,47,1,0
+Reg. Season Week 2,2017,2929,signed as a free agent,6,DT,47,1,0
+Reg. Season Week 2,2017,1548,released,6,OLB,0,0,0
+Reg. Season Week 2,2017,1734,released,6,G,0,0,0
+Reg. Season Week 2,2017,1103,released,6,S,0,0,0
+Reg. Season Week 2,2017,179,signed as a free agent,14,G,90,1,0
+Reg. Season Week 2,2017,1219,released,14,TE,0,0,0
+Reg. Season Week 2,2017,1583,signed as a free agent,17,DE,47,1,0
+Reg. Season Week 2,2017,1587,released,17,CB,0,0,0
+Reg. Season Week 2,2017,2484,signed as a free agent,16,TE,47,1,0
+Reg. Season Week 2,2017,1295,released,16,G,0,0,0
+Reg. Season Week 2,2017,2111,signed as a free agent,20,DE,47,1,0
+Reg. Season Week 2,2017,701,released,20,DE,0,0,0
+Reg. Season Week 2,2017,2883,signed as a free agent,19,DE,47,1,0
+Reg. Season Week 2,2017,2201,signed as a free agent,19,DT,47,1,0
+Reg. Season Week 2,2017,605,released,19,OLB,0,0,0
+Reg. Season Week 2,2017,359,released,19,CB,0,0,0
+Reg. Season Week 2,2017,1723,signed as a free agent,28,CB,47,1,0
+Reg. Season Week 2,2017,454,released,28,T,0,0,0
+Reg. Season Week 2,2017,2274,signed as a free agent,26,ILB,47,1,0
+Reg. Season Week 2,2017,1318,released,26,ILB,0,0,0
+Reg. Season Week 3,2017,851,placed on injured reserve,9,T,0,0,0
+Reg. Season Week 3,2017,2284,signed as a free agent,9,OLB,47,1,0
+Reg. Season Week 3,2017,1128,signed as a free agent,9,T,62,1,0
+Reg. Season Week 3,2017,2879,signed as a free agent,9,DE,47,1,0
+Reg. Season Week 3,2017,1206,released,9,G,0,0,0
+Reg. Season Week 3,2017,1664,released,9,OLB,0,0,0
+Reg. Season Week 3,2017,2314,signed as a free agent,30,S,47,1,0
+Reg. Season Week 3,2017,741,released,30,RB,0,0,0
+Reg. Season Week 3,2017,3020,signed as a free agent,3,OLB,47,1,0
+Reg. Season Week 3,2017,445,released,3,CB,0,0,0
+Reg. Season Week 3,2017,2186,signed as a free agent,8,DT,47,1,0
+Reg. Season Week 3,2017,743,released,8,ILB,0,0,0
+Reg. Season Week 3,2017,3159,signed as a free agent,31,S,47,1,0
+Reg. Season Week 3,2017,1074,released,31,ILB,0,0,0
+Reg. Season Week 3,2017,1954,signed as a free agent,13,TE,47,1,0
+Reg. Season Week 3,2017,1350,released,13,OLB,0,0,0
+Reg. Season Week 3,2017,2962,signed as a free agent,26,ILB,47,1,0
+Reg. Season Week 3,2017,1260,released,26,TE,0,0,0
+Reg. Season Week 3,2017,3002,signed as a free agent,19,OLB,47,1,0
+Reg. Season Week 3,2017,2883,released,19,DE,0,0,0
+Reg. Season Week 3,2017,2072,signed as a free agent,21,T,47,1,0
+Reg. Season Week 3,2017,109,released,21,S,0,0,0
+Reg. Season Week 3,2017,2518,signed as a free agent,20,TE,47,1,0
+Reg. Season Week 3,2017,2937,signed as a free agent,20,DT,47,1,0
+Reg. Season Week 3,2017,815,released,20,QB,0,0,0
+Reg. Season Week 3,2017,1795,released,20,DT,0,0,0
+Reg. Season Week 3,2017,3169,signed as a free agent,15,S,47,1,0
+Reg. Season Week 3,2017,1266,released,15,T,0,0,0
+Reg. Season Week 4,2017,3090,signed as a free agent,3,CB,47,1,0
+Reg. Season Week 4,2017,1689,released,3,OLB,0,0,0
+Reg. Season Week 4,2017,2939,signed as a free agent,16,DT,47,1,0
+Reg. Season Week 4,2017,672,released,16,T,0,0,0
+Reg. Season Week 4,2017,1783,signed as a free agent,11,DT,47,1,0
+Reg. Season Week 4,2017,1342,released,11,ILB,0,0,0
+Reg. Season Week 4,2017,2883,signed as a free agent,20,DE,47,1,0
+Reg. Season Week 4,2017,1429,released,20,DE,0,0,0
+Reg. Season Week 4,2017,2200,signed as a free agent,23,DT,47,1,0
+Reg. Season Week 4,2017,1079,released,23,DE,0,0,0
+Reg. Season Week 4,2017,2871,signed as a free agent,22,DE,47,1,0
+Reg. Season Week 4,2017,423,released,22,S,0,0,0
+Reg. Season Week 4,2017,2494,signed as a free agent,29,TE,47,1,0
+Reg. Season Week 4,2017,1060,released,29,T,0,0,0
+Reg. Season Week 5,2017,1473,released,10,OLB,0,0,0
+Reg. Season Week 5,2017,656,signed as a free agent,10,K,78,1,99
+Reg. Season Week 5,2017,2866,signed as a free agent,21,DE,47,1,0
+Reg. Season Week 5,2017,675,released,21,G,0,0,0
+Reg. Season Week 5,2017,2886,signed as a free agent,20,DT,47,1,0
+Reg. Season Week 5,2017,2518,released,20,TE,0,0,0
+Reg. Season Week 5,2017,2895,signed as a free agent,23,DT,47,1,0
+Reg. Season Week 5,2017,1046,released,23,TE,0,0,0
+Reg. Season Week 5,2017,2830,signed as a free agent,12,DE,47,1,0
+Reg. Season Week 5,2017,1675,released,12,WR,0,0,0
+Reg. Season Week 5,2017,2916,signed as a free agent,31,DT,47,1,0
+Reg. Season Week 5,2017,532,released,31,CB,0,0,0
+Reg. Season Week 5,2017,3037,signed as a free agent,5,OLB,47,1,0
+Reg. Season Week 5,2017,932,released,5,CB,0,0,0
+Reg. Season Week 5,2017,1623,signed as a free agent,15,G,47,1,0
+Reg. Season Week 5,2017,29,placed on injured reserve,15,G,0,0,0
+Reg. Season Week 5,2017,1962,signed as a free agent,15,TE,47,1,0
+Reg. Season Week 5,2017,1788,released,15,CB,0,0,0
+Reg. Season Week 5,2017,2664,signed as a free agent,11,G,47,1,0
+Reg. Season Week 5,2017,276,released,11,DT,0,0,0
+Reg. Season Week 6,2017,1328,changed primary position,10,ILB,0,WILB,SILB
+Reg. Season Week 6,2017,1228,changed primary position,10,ILB,0,SILB,WILB
+Reg. Season Week 6,2017,480,placed on injured reserve,20,G,0,0,0
+Reg. Season Week 6,2017,2678,signed as a free agent,20,G,47,1,0
+Reg. Season Week 6,2017,3074,signed as a free agent,5,CB,47,1,0
+Reg. Season Week 6,2017,467,released,5,T,0,0,0
+Reg. Season Week 6,2017,2723,signed as a free agent,26,T,47,1,0
+Reg. Season Week 6,2017,1727,released,26,OLB,0,0,0
+Reg. Season Week 6,2017,2015,signed as a free agent,16,T,47,1,0
+Reg. Season Week 6,2017,2237,signed as a free agent,16,ILB,47,1,0
+Reg. Season Week 6,2017,816,released,16,DT,0,0,0
+Reg. Season Week 6,2017,762,released,16,OLB,0,0,0
+Reg. Season Week 6,2017,2265,signed as a free agent,4,ILB,47,1,0
+Reg. Season Week 6,2017,1325,released,4,TE,0,0,0
+Reg. Season Week 6,2017,2312,signed as a free agent,21,S,47,1,0
+Reg. Season Week 6,2017,1585,released,21,DT,0,0,0
+Reg. Season Week 6,2017,2018,signed as a free agent,13,G,47,1,0
+Reg. Season Week 6,2017,1438,released,13,CB,0,0,0
+Reg. Season Week 7,2017,349,signed as a free agent,16,DE,78,1,0
+Reg. Season Week 7,2017,3019,signed as a free agent,16,OLB,47,1,0
+Reg. Season Week 7,2017,1651,released,16,OLB,0,0,0
+Reg. Season Week 7,2017,143,released,16,S,0,0,0
+Reg. Season Week 7,2017,2257,signed as a free agent,23,ILB,47,1,0
+Reg. Season Week 7,2017,653,released,23,DT,0,0,0
+Reg. Season Week 7,2017,1344,signed as a free agent,8,T,54,1,0
+Reg. Season Week 7,2017,2186,released,8,DT,0,0,0
+Reg. Season Week 7,2017,2546,signed as a free agent,13,WR,47,1,0
+Reg. Season Week 7,2017,947,placed on injured reserve,13,WR,0,0,0
+Reg. Season Week 7,2017,3149,signed as a free agent,13,S,47,1,0
+Reg. Season Week 7,2017,1222,released,13,G,0,0,0
+Reg. Season Week 7,2017,2416,signed as a free agent,28,RB,47,1,0
+Reg. Season Week 7,2017,1405,released,28,QB,0,0,0
+Reg. Season Week 7,2017,264,released,29,C,0,0,0
+Reg. Season Week 7,2017,2483,signed as a free agent,29,FB,47,1,0
+Reg. Season Week 8,2017,2039,released,10,C,0,0,0
+Reg. Season Week 8,2017,2617,signed as a free agent,10,C,47,1,99
+Reg. Season Week 8,2017,2128,signed as a free agent,16,DT,47,1,0
+Reg. Season Week 8,2017,2484,released,16,TE,0,0,0
+Reg. Season Week 8,2017,1879,signed as a free agent,23,RB,47,1,0
+Reg. Season Week 8,2017,2895,released,23,DT,0,0,0
+Reg. Season Week 8,2017,2206,signed as a free agent,4,DE,47,1,0
+Reg. Season Week 8,2017,1352,released,4,OLB,0,0,0
+Reg. Season Week 8,2017,1222,signed as a free agent,5,G,54,1,0
+Reg. Season Week 8,2017,1308,released,5,ILB,0,0,0
+Reg. Season Week 8,2017,3156,signed as a free agent,6,S,47,1,0
+Reg. Season Week 8,2017,1014,released,6,DT,0,0,0
+Reg. Season Week 8,2017,2658,signed as a free agent,3,G,47,1,0
+Reg. Season Week 8,2017,1114,released,3,TE,0,0,0
+Reg. Season Week 9,2017,2763,signed as a free agent,28,T,47,1,0
+Reg. Season Week 9,2017,1735,released,28,CB,0,0,0
+Reg. Season Week 9,2017,1868,signed as a free agent,3,RB,47,1,0
+Reg. Season Week 9,2017,1793,released,3,ILB,0,0,0
+Reg. Season Week 9,2017,1114,signed as a free agent,31,TE,62,1,0
+Reg. Season Week 9,2017,3022,signed as a free agent,31,OLB,47,1,0
+Reg. Season Week 9,2017,2260,signed as a free agent,31,ILB,47,1,0
+Reg. Season Week 9,2017,2916,released,31,DT,0,0,0
+Reg. Season Week 9,2017,1531,released,31,CB,0,0,0
+Reg. Season Week 9,2017,310,released,31,S,0,0,0
+Reg. Season Week 9,2017,1014,signed as a free agent,11,DT,62,1,0
+Reg. Season Week 9,2017,1798,released,11,ILB,0,0,0
+Reg. Season Week 9,2017,2484,signed as a free agent,26,TE,47,1,0
+Reg. Season Week 9,2017,1412,released,26,WR,0,0,0
+Reg. Season Week 10,2017,3022,placed on injured reserve,31,OLB,0,0,0
+Reg. Season Week 10,2017,310,signed as a free agent,31,S,78,1,0
+Reg. Season Week 10,2017,3108,signed as a free agent,31,CB,47,1,0
+Reg. Season Week 10,2017,2996,signed as a free agent,31,OLB,47,1,0
+Reg. Season Week 10,2017,628,released,31,S,0,0,0
+Reg. Season Week 10,2017,1340,released,31,S,0,0,0
+Reg. Season Week 10,2017,2626,signed as a free agent,14,C,47,1,0
+Reg. Season Week 10,2017,92,released,14,OLB,0,0,0
+Reg. Season Week 10,2017,1028,signed as a free agent,15,T,62,1,0
+Reg. Season Week 10,2017,516,released,15,WR,0,0,0
+Reg. Season Week 10,2017,628,signed as a free agent,18,S,78,1,0
+Reg. Season Week 10,2017,1144,released,18,TE,0,0,0
+Reg. Season Week 10,2017,2973,signed as a free agent,11,ILB,47,1,0
+Reg. Season Week 10,2017,1733,released,11,G,0,0,0
+Reg. Season Week 10,2017,2643,signed as a free agent,22,C,47,1,0
+Reg. Season Week 10,2017,1329,released,22,ILB,0,0,0
+Reg. Season Week 10,2017,1065,placed on injured reserve,24,C,0,0,0
+Reg. Season Week 10,2017,2647,signed as a free agent,24,C,47,1,0
+Reg. Season Week 11,2017,895,signed as a free agent,31,RB,69,1,0
+Reg. Season Week 11,2017,1953,released,31,TE,0,0,0
+Reg. Season Week 11,2017,1340,signed as a free agent,1,S,54,1,0
+Reg. Season Week 11,2017,257,released,1,WR,0,0,0
+Reg. Season Week 11,2017,2186,signed as a free agent,26,DT,47,1,0
+Reg. Season Week 11,2017,2222,signed as a free agent,26,OLB,47,1,0
+Reg. Season Week 11,2017,698,released,26,S,0,0,0
+Reg. Season Week 11,2017,1030,released,26,OLB,0,0,0
+Reg. Season Week 11,2017,712,signed as a free agent,7,C,69,1,0
+Reg. Season Week 11,2017,1726,released,7,DT,0,0,0
+Reg. Season Week 11,2017,394,placed on injured reserve,21,G,0,0,0
+Reg. Season Week 11,2017,2453,signed as a free agent,21,FB,47,1,0
+Reg. Season Week 11,2017,1733,signed as a free agent,21,G,47,1,0
+Reg. Season Week 11,2017,703,released,21,RB,0,0,0
+Reg. Season Week 11,2017,2282,signed as a free agent,17,OLB,47,1,0
+Reg. Season Week 11,2017,698,signed as a free agent,17,S,69,1,0
+Reg. Season Week 11,2017,954,released,17,DT,0,0,0
+Reg. Season Week 11,2017,1944,released,17,TE,0,0,0
+Reg. Season Week 12,2017,143,signed as a free agent,3,S,90,1,0
+Reg. Season Week 12,2017,533,released,3,RB,0,0,0
+Reg. Season Week 12,2017,2943,signed as a free agent,7,DT,47,1,0
+Reg. Season Week 12,2017,1235,released,7,S,0,0,0
+Reg. Season Week 12,2017,1391,placed on injured reserve,19,T,0,0,0
+Reg. Season Week 12,2017,1030,signed as a free agent,19,OLB,62,1,0
+Reg. Season Week 12,2017,1571,placed on injured reserve,6,DT,0,0,0
+Reg. Season Week 12,2017,1585,signed as a free agent,6,DT,47,1,0
+Reg. Season Week 12,2017,3173,signed as a free agent,2,S,47,1,0
+Reg. Season Week 12,2017,881,released,2,DE,0,0,0
+Reg. Season Week 12,2017,791,signed as a free agent,15,WR,69,1,0
+Reg. Season Week 12,2017,2239,signed as a free agent,15,ILB,47,1,0
+Reg. Season Week 12,2017,1511,released,15,T,0,0,0
+Reg. Season Week 12,2017,1567,released,15,OLB,0,0,0
+Reg. Season Week 12,2017,3003,signed as a free agent,26,OLB,47,1,0
+Reg. Season Week 12,2017,507,released,26,DT,0,0,0
+Reg. Season Week 12,2017,2856,signed as a free agent,18,DE,47,1,0
+Reg. Season Week 12,2017,1616,released,18,CB,0,0,0
+Reg. Season Week 12,2017,3010,signed as a free agent,24,OLB,47,1,0
+Reg. Season Week 12,2017,1277,released,24,T,0,0,0
+Reg. Season Week 12,2017,3016,signed as a free agent,28,OLB,47,1,0
+Reg. Season Week 12,2017,1758,released,28,T,0,0,0
+Reg. Season Week 13,2017,2744,signed as a free agent,17,T,47,1,0
+Reg. Season Week 13,2017,698,released,17,S,0,0,0
+Reg. Season Week 13,2017,2414,signed as a free agent,28,RB,47,1,0
+Reg. Season Week 13,2017,1555,released,28,RB,0,0,0
+Reg. Season Week 13,2017,1953,signed as a free agent,31,TE,47,1,0
+Reg. Season Week 13,2017,895,released,31,RB,0,0,0
+Reg. Season Week 13,2017,2118,signed as a free agent,26,DE,47,1,0
+Reg. Season Week 13,2017,2484,released,26,TE,0,0,0
+Reg. Season Week 13,2017,2398,signed as a free agent,3,RB,47,1,0
+Reg. Season Week 13,2017,563,released,3,DT,0,0,0
+Reg. Season Week 13,2017,661,placed on injured reserve,18,OLB,0,0,0
+Reg. Season Week 13,2017,2243,signed as a free agent,18,ILB,47,1,0
+Reg. Season Week 13,2017,2009,signed as a free agent,24,T,47,1,0
+Reg. Season Week 13,2017,1787,released,24,S,0,0,0
+Reg. Season Week 13,2017,1397,signed as a free agent,25,ILB,54,1,0
+Reg. Season Week 13,2017,1779,released,25,OLB,0,0,0
+Reg. Season Week 13,2017,2635,signed as a free agent,27,C,47,1,0
+Reg. Season Week 13,2017,732,released,27,DE,0,0,0
+Reg. Season Week 14,2017,676,placed on injured reserve,9,DE,0,0,0
+Reg. Season Week 14,2017,3023,signed as a free agent,9,OLB,47,1,0
+Reg. Season Week 14,2017,1467,placed on injured reserve,30,T,0,0,0
+Reg. Season Week 14,2017,2967,signed as a free agent,30,ILB,47,1,0
+Reg. Season Week 14,2017,3057,signed as a free agent,4,CB,47,1,0
+Reg. Season Week 14,2017,1515,released,4,S,0,0,0
+Reg. Season Week 14,2017,1036,placed on injured reserve,16,G,0,0,0
+Reg. Season Week 14,2017,2063,signed as a free agent,16,G,47,1,0
+Reg. Season Week 14,2017,1308,signed as a free agent,19,ILB,54,1,0
+Reg. Season Week 14,2017,408,placed on injured reserve,19,ILB,0,0,0
+Reg. Season Week 14,2017,563,signed as a free agent,20,DT,78,1,0
+Reg. Season Week 14,2017,2886,released,20,DT,0,0,0
+Reg. Season Week 15,2017,2296,signed as a free agent,6,CB,47,1,0
+Reg. Season Week 15,2017,616,released,6,ILB,0,0,0
+Reg. Season Week 15,2017,2306,signed as a free agent,20,CB,47,1,0
+Reg. Season Week 15,2017,2886,signed as a free agent,20,DT,47,1,0
+Reg. Season Week 15,2017,2937,released,20,DT,0,0,0
+Reg. Season Week 15,2017,84,released,20,S,0,0,0
+Reg. Season Week 15,2017,2948,signed as a free agent,7,ILB,47,1,0
+Reg. Season Week 15,2017,603,released,7,C,0,0,0
+Reg. Season Week 15,2017,2937,signed as a free agent,14,DT,47,1,0
+Reg. Season Week 15,2017,1482,released,14,C,0,0,0
+Reg. Season Week 15,2017,84,signed as a free agent,16,S,100,1,0
+Reg. Season Week 15,2017,2128,released,16,DT,0,0,0
+Reg. Season Week 15,2017,3053,signed as a free agent,18,CB,47,1,0
+Reg. Season Week 15,2017,1154,placed on injured reserve,18,CB,0,0,0
+Reg. Season Week 16,2017,70,released,10,K,0,0,0
+Reg. Season Week 16,2017,2501,signed as a free agent,10,TE,47,1,99
+Reg. Season Week 16,2017,732,signed as a free agent,17,DE,69,1,0
+Reg. Season Week 16,2017,2282,released,17,OLB,0,0,0
+Reg. Season Week 16,2017,557,signed as a free agent,1,DT,78,1,0
+Reg. Season Week 16,2017,1576,released,1,ILB,0,0,0
+Reg. Season Week 16,2017,2053,signed as a free agent,19,G,47,1,0
+Reg. Season Week 16,2017,779,released,19,C,0,0,0
+Reg. Season Week 16,2017,2652,signed as a free agent,5,C,47,1,0
+Reg. Season Week 16,2017,2865,signed as a free agent,5,DE,47,1,0
+Reg. Season Week 16,2017,246,released,5,CB,0,0,0
+Reg. Season Week 16,2017,1272,released,5,S,0,0,0
+Reg. Season Week 16,2017,2282,signed as a free agent,6,OLB,47,1,0
+Reg. Season Week 16,2017,1585,released,6,DT,0,0,0
+Reg. Season Week 16,2017,2484,signed as a free agent,14,TE,47,1,0
+Reg. Season Week 16,2017,2937,released,14,DT,0,0,0
+Reg. Season Week 16,2017,2937,signed as a free agent,0,DT,47,1,0
+Reg. Season Week 16,2017,722,released,0,WR,0,0,0
+Reg. Season Week 16,2017,2650,signed as a free agent,18,C,47,1,0
+Reg. Season Week 16,2017,1713,released,18,DE,0,0,0
+Reg. Season Week 16,2017,2653,signed as a free agent,27,G,47,1,0
+Reg. Season Week 16,2017,1157,released,27,T,0,0,0
+Reg. Season Week 17,2017,2443,signed as a free agent,14,RB,47,1,0
+Reg. Season Week 17,2017,248,released,14,OLB,0,0,0
+Reg. Season Week 17,2017,70,signed as a free agent,3,K,100,1,0
+Reg. Season Week 17,2017,218,released,3,G,0,0,0
+Reg. Season Week 17,2017,1116,placed on injured reserve,4,OLB,0,0,0
+Reg. Season Week 17,2017,1651,signed as a free agent,4,OLB,47,1,0
+Reg. Season Week 17,2017,1983,signed as a free agent,15,WR,47,1,0
+Reg. Season Week 17,2017,791,placed on injured reserve,15,WR,0,0,0
+Reg. Season Week 17,2017,698,signed as a free agent,5,S,69,1,0
+Reg. Season Week 17,2017,1040,released,5,WR,0,0,0
+Reg. Season Week 17,2017,1585,signed as a free agent,6,DT,47,1,0
+Reg. Season Week 17,2017,795,released,6,C,0,0,0
+Reg. Season Week 17,2017,139,placed on injured reserve,30,WR,0,0,0
+Reg. Season Week 17,2017,1515,signed as a free agent,30,S,47,1,0
+Reg. Season Week 17,2017,2419,signed as a free agent,21,RB,47,1,0
+Reg. Season Week 17,2017,1249,released,21,OLB,0,0,0
+Reg. Season Week 17,2017,795,signed as a free agent,31,C,69,1,0
+Reg. Season Week 17,2017,3108,released,31,CB,0,0,0
+Reg. Season Week 17,2017,218,signed as a free agent,28,G,90,1,0
+Reg. Season Week 17,2017,1428,released,28,ILB,0,0,0
+Reg. Season Week 17,2017,2663,signed as a free agent,8,G,47,1,0
+Reg. Season Week 17,2017,1359,released,8,S,0,0,0
+Reg. Season Week 17,2017,3039,signed as a free agent,17,OLB,47,1,0
+Reg. Season Week 17,2017,732,released,17,DE,0,0,0
+Reg. Season Week 17,2017,672,signed as a free agent,29,T,78,1,0
+Reg. Season Week 17,2017,1173,released,29,RB,0,0,0
+Wild Card Round,2017,70,released,3,K,0,0,0
+Wild Card Round,2017,2981,signed as a free agent,3,ILB,47,1,0
+Wild Card Round,2017,2995,signed as a free agent,31,OLB,47,1,0
+Wild Card Round,2017,3108,signed as a free agent,31,CB,47,1,0
+Wild Card Round,2017,1032,released,31,C,0,0,0
+Wild Card Round,2017,1953,released,31,TE,0,0,0
+Wild Card Round,2017,2255,signed as a free agent,24,ILB,47,1,0
+Wild Card Round,2017,2009,released,24,T,0,0,0
+Divisional Round,2017,303,placed on injured reserve,3,DT,0,0,0
+Divisional Round,2017,3147,signed as a free agent,3,S,47,1,0
+Divisional Round,2017,1713,signed as a free agent,3,DE,47,1,0
+Divisional Round,2017,663,released,3,S,0,0,0
+Divisional Round,2017,1375,placed on injured reserve,24,DT,0,0,0
+Divisional Round,2017,1933,signed as a free agent,24,FB,47,1,0
+Divisional Round,2017,2916,signed as a free agent,24,DT,47,1,0
+Divisional Round,2017,1334,released,24,RB,0,0,0
+Conference Round,2017,3141,signed as a free agent,26,S,47,1,0
+Conference Round,2017,1626,placed on injured reserve,26,S,0,0,0

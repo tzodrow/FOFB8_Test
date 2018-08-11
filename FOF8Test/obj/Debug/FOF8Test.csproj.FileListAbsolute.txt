@@ -1,0 +1,10 @@
+E:\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+E:\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+E:\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+E:\Projects\TestApplication\TestApplication\bin\Debug\FileHelpers.dll
+E:\Projects\TestApplication\TestApplication\bin\Debug\FileHelpers.xml
+E:\Projects\TestApplication\TestApplication\obj\Debug\FOF8Test.csprojAssemblyReference.cache
+E:\Projects\TestApplication\TestApplication\obj\Debug\FOF8Test.csproj.CoreCompileInputs.cache
+E:\Projects\TestApplication\TestApplication\obj\Debug\FOF8Test.csproj.CopyComplete
+E:\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+E:\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.pdb

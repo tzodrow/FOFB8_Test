@@ -97,6 +97,11 @@ namespace FOF8Test.DataModels
         public int SLongFieldGaol { get; set; }
         public int SPATScored { get; set; }
         public int SPATAttempted { get; set; }
+        public int SPunts { get; set; }
+        public int SPuntingYards { get; set; }
+        public int SLongPunts { get; set; }
+        public int SPuntsInside20 { get; set; }
+        public int SPointsScored { get; set; }
         public int SHOFPoints { get; set; }
         public int SThirdDownRuns { get; set; }
         public int SThirdDownFirstDownRuns { get; set; }
@@ -190,6 +195,11 @@ namespace FOF8Test.DataModels
         public int PLongFieldGaol { get; set; }
         public int PPATScored { get; set; }
         public int PPATAttempted { get; set; }
+        public int PPunts { get; set; }
+        public int PPuntingYards { get; set; }
+        public int PLongPunts { get; set; }
+        public int PPuntsInside20 { get; set; }
+        public int PPointsScored { get; set; }
         public int PHOFPoints { get; set; }
         public int PThirdDownRuns { get; set; }
         public int PThirdDownFirstDownRuns { get; set; }
@@ -239,17 +249,5 @@ namespace FOF8Test.DataModels
         public int PositionDrill { get; set; }
         public int PointerToFreeAgentBlock { get; set; }
         public int PointerToPlayerInformationRecord { get; set; }
-
-        public int MyProperty { get;set; }
-
-        public int MyProperty2 { get; set; }
-        public int MyProperty3 { get; set; }
-        public int MyProperty4 { get; set; }
-        public int MyProperty5 { get; set; }
-        public int MyProperty6 { get; set; }
-        public int MyProperty7 { get; set; }
-        public int MyProperty8 { get; set; }
-        public int MyProperty9 { get; set; }
-        public int MyProperty10 { get; set; }
     }
 }

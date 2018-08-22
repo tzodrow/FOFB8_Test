@@ -32,8 +32,11 @@ namespace FOF8Test
             var engineGameRecordsRecord = new FileHelperEngine<GameRecordsRecord>();
             var result6 = engineGameRecordsRecord.ReadFile("DataFiles\\game_records.csv");
 
-            var enginePlayerSeasonRatingsRecord = new FileHelperEngine<PlayerSeasonRatingsRecord>();
+            var enginePlayerSeasonRatingsRecord = new FileHelperEngine<PlayerRatingsSeasonRecord>();
             var result7 = enginePlayerSeasonRatingsRecord.ReadFile("DataFiles\\player_ratings_season_2017.csv");
+
+            var enginePlayerRecord = new FileHelperEngine<PlayerRecord>();
+            var result8 = enginePlayerRecord.ReadFile("DataFiles\\player_record.csv");
 
             Console.WriteLine("Please press any key to continue...");
             Console.ReadLine();

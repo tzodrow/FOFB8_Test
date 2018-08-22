@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using FileHelpers;
 using FOF8Test.DataEnums;
+using TestApplication.DataEnums;
 
 namespace FOF8Test.DataModels
 {
+    [IgnoreFirst(1)]
+    [DelimitedRecord(",")]
     class PlayerRecord
     {
         public int PlayerId { get; set; }
@@ -23,6 +22,222 @@ namespace FOF8Test.DataModels
         public int PersonalityStrength { get; set; }
         public int Leadership { get; set; }
         public int Intelligence { get; set; }
-        public int MyProperty { get; set; }
+        public bool RedFlag { get; set; }
+        public bool Mentor { get; set; }
+        public int Volatility { get; set; }
+        public Designation Designation { get; set; }
+        public string Status { get; set; }
+        public int YearSigned { get; set; }
+        public int Popularity { get; set; }
+        public string Aquired { get; set; }
+        public int HallOfFamePoints { get; set; }
+        public int ContractLength { get; set; }
+        public int SalaryYear1 { get; set; }
+        public int SalaryYear2 { get; set; }
+        public int SalaryYear3 { get; set; }
+        public int SalaryYear4 { get; set; }
+        public int SalaryYear5 { get; set; }
+        public int BonusYear1 { get; set; }
+        public int BonusYear2 { get; set; }
+        public int BonusYear3 { get; set; }
+        public int BonusYear4 { get; set; }
+        public int BonusYear5 { get; set; }
+        public bool Holdout { get; set; }
+        public bool SpecialTeamsDesignation { get; set; }
+        
+        // Season Stats
+        public int SGamesPlayed { get; set; }
+        public int SGamesStarted { get; set; }
+        public int SPassAttempts { get; set; }
+        public int SPassCompletions { get; set; }
+        public int SPassingYards { get; set; }
+        public int SLongPasses { get; set; }
+        public int STouchdownPasses { get; set; }
+        public int SInterceptedPasses { get; set; }
+        public int STimesSacked { get; set; }
+        public int SSackYards { get; set; }
+        public int SRushes { get; set; }
+        public int SRushingYards { get; set; }
+        public int SLongRushes { get; set; }
+        public int SRushingTouchdowns { get; set; }
+        public int SCatches { get; set; }
+        public int SReceivingYards { get; set; }
+        public int SLongReceptions { get; set; }
+        public int SReceivingTouchdowns { get; set; }
+        public int STargets { get; set; }
+        public int SYardsAfterCatch { get; set; }
+        public int SDrops { get; set; }
+        public int SPuntReturns { get; set; }
+        public int SPuntReturnYards { get; set; }
+        public int SPuntReturnTouchdowns { get; set; }
+        public int SKickReturns { get; set; }
+        public int SKickReturnYards { get; set; }
+        public int SKickReturnTouchdowns { get; set; }
+        public int SFumbles { get; set; }
+        public int SFumblesRecovered { get; set; }
+        public int SFumblesForced { get; set; }
+        public int SFumbleReturnTouchdowns { get; set; }
+        public int SKeyRunBlocks { get; set; }
+        public int SBlockOpportunities { get; set; }
+        public int SSacksAllowed { get; set; }
+        public int STackles { get; set; }
+        public int SAssists { get; set; }
+        public int SSacksX10 { get; set; }
+        public int SInterceptions { get; set; }
+        public int SInterceptionReturnYards { get; set; }
+        public int SInterceptionReturnTouchdowns { get; set; }
+        public int SPassesDefended { get; set; }
+        public int SPassesBlocked { get; set; }
+        public int SHurries { get; set; }
+        public int SPassesCaughtAgainst { get; set; }
+        public int SPassPlays { get; set; }
+        public int SRunPlays { get; set; }
+        public int SFieldGoalsMade { get; set; }
+        public int SFieldGoalsAttempted { get; set; }
+        public int SLongFieldGaol { get; set; }
+        public int SPATScored { get; set; }
+        public int SPATAttempted { get; set; }
+        public int SHOFPoints { get; set; }
+        public int SThirdDownRuns { get; set; }
+        public int SThirdDownFirstDownRuns { get; set; }
+        public int SThirdDownPassAttempts { get; set; }
+        public int SThirdDownCompletions { get; set; }
+        public int SThirdDownFirstDownPasses { get; set; }
+        public int SThirdDownTargets { get; set; }
+        public int SThirdDownCatches { get; set; }
+        public int SThirdDownFirstDownCatches { get; set; }
+        public int SFirstDownRuns { get; set; }
+        public int SFirstDownPassAttempts { get; set; }
+        public int SFirstDownCatches { get; set; }
+        public int S40FieldGoalsAttempted { get; set; }
+        public int S40FieldGaolsMade { get; set; }
+        public int S50FieldGoalsAttempted { get; set; }
+        public int S50FieldGoalsMade { get; set; }
+        public int SNetPuntingYards { get; set; }
+        public int SSpecialTeamTackles { get; set; }
+        public int SQuarterbackKnockDown { get; set; }
+        public int SRedZoneRuns { get; set; }
+        public int SRedZoneRushingYards { get; set; }
+        public int SRedZonePassAttempts { get; set; }
+        public int SRedZoneCompletions { get; set; }
+        public int SRedZonePassingYards { get; set; }
+        public int SRedZoneTargets { get; set; }
+        public int SRedZoneCatches { get; set; }
+        public int SRedZoneReceivingYards { get; set; }
+        public int STotalTouchdowns { get; set; }
+        public int STwoPointConversions { get; set; }
+        public int SPancakeBlocks { get; set; }
+        public int SQuarterbackKnockdowns { get; set; }
+        public int SSpecialTeamPlays { get; set; }
+        public int S100YardRushingGames { get; set; }
+        public int S100YardReceivingGames { get; set; }
+        public int S300YardPassingGames { get; set; }
+        public int S10YardRuns { get; set; }
+        public int S20YardCatches { get; set; }
+        public int S20YardCompletions { get; set; }
+        public int SYardsFromScrimmage { get; set; }
+        public int SAllPurposeYards { get; set; }
+
+        // Playoff Stats
+        public int PGamesPlayed { get; set; }
+        public int PGamesStarted { get; set; }
+        public int PPassAttempts { get; set; }
+        public int PPassCompletions { get; set; }
+        public int PPassingYards { get; set; }
+        public int PLongPasses { get; set; }
+        public int PTouchdownPasses { get; set; }
+        public int PInterceptedPasses { get; set; }
+        public int PTimesSacked { get; set; }
+        public int PSackYards { get; set; }
+        public int PRushes { get; set; }
+        public int PRushingYards { get; set; }
+        public int PLongRushes { get; set; }
+        public int PRushingTouchdowns { get; set; }
+        public int PCatches { get; set; }
+        public int PReceivingYards { get; set; }
+        public int PLongReceptions { get; set; }
+        public int PReceivingTouchdowns { get; set; }
+        public int PTargets { get; set; }
+        public int PYardsAfterCatch { get; set; }
+        public int PDrops { get; set; }
+        public int PPuntReturns { get; set; }
+        public int PPuntReturnYards { get; set; }
+        public int PPuntReturnTouchdowns { get; set; }
+        public int PKickReturns { get; set; }
+        public int PKickReturnYards { get; set; }
+        public int PKickReturnTouchdowns { get; set; }
+        public int PFumbles { get; set; }
+        public int PFumblesRecovered { get; set; }
+        public int PFumblesForced { get; set; }
+        public int PFumbleReturnTouchdowns { get; set; }
+        public int PKeyRunBlocks { get; set; }
+        public int PBlockOpportunities { get; set; }
+        public int PSacksAllowed { get; set; }
+        public int PTackles { get; set; }
+        public int PAssists { get; set; }
+        public int PSacksX10 { get; set; }
+        public int PInterceptions { get; set; }
+        public int PInterceptionReturnYards { get; set; }
+        public int PInterceptionReturnTouchdowns { get; set; }
+        public int PPassesDefended { get; set; }
+        public int PPassesBlocked { get; set; }
+        public int PHurries { get; set; }
+        public int PPassesCaughtAgainst { get; set; }
+        public int PPassPlays { get; set; }
+        public int PRunPlays { get; set; }
+        public int PFieldGoalsMade { get; set; }
+        public int PFieldGoalsAttempted { get; set; }
+        public int PLongFieldGaol { get; set; }
+        public int PPATScored { get; set; }
+        public int PPATAttempted { get; set; }
+        public int PHOFPoints { get; set; }
+        public int PThirdDownRuns { get; set; }
+        public int PThirdDownFirstDownRuns { get; set; }
+        public int PThirdDownPassAttempts { get; set; }
+        public int PThirdDownCompletions { get; set; }
+        public int PThirdDownFirstDownPasses { get; set; }
+        public int PThirdDownTargets { get; set; }
+        public int PThirdDownCatches { get; set; }
+        public int PThirdDownFirstDownCatches { get; set; }
+        public int PFirstDownRuns { get; set; }
+        public int PFirstDownPassAttempts { get; set; }
+        public int PFirstDownCatches { get; set; }
+        public int P40FieldGoalsAttempted { get; set; }
+        public int P40FieldGaolsMade { get; set; }
+        public int P50FieldGoalsAttempted { get; set; }
+        public int P50FieldGoalsMade { get; set; }
+        public int PNetPuntingYards { get; set; }
+        public int PSpecialTeamTackles { get; set; }
+        public int PQuarterbackKnockDown { get; set; }
+        public int PRedZoneRuns { get; set; }
+        public int PRedZoneRushingYards { get; set; }
+        public int PRedZonePassAttempts { get; set; }
+        public int PRedZoneCompletions { get; set; }
+        public int PRedZonePassingYards { get; set; }
+        public int PRedZoneTargets { get; set; }
+        public int PRedZoneCatches { get; set; }
+        public int PRedZoneReceivingYards { get; set; }
+        public int PTotalTouchdowns { get; set; }
+        public int PTwoPointConversions { get; set; }
+        public int PPancakeBlocks { get; set; }
+        public int PQuarterbackKnockdowns { get; set; }
+        public int PSpecialTeamPlays { get; set; }
+        public int P100YardRushingGames { get; set; }
+        public int P100YardReceivingGames { get; set; }
+        public int P300YardPassingGames { get; set; }
+        public int P10YardRuns { get; set; }
+        public int P20YardCatches { get; set; }
+        public int P20YardCompletions { get; set; }
+        public int PYardsFromScrimmage { get; set; }
+        public int PAllPurposeYards { get; set; }
+
+        public int SolecismicTest { get; set; }
+        public int FortyYardDash { get; set; }
+        public int BenchPress { get; set; }
+        public int AgilityDrill { get; set; }
+        public int BroadJump { get; set; }
+        public int PositionDrill { get; set; }
+        public int PointerToFreeAgentBlock { get; set; }
+        public int PointerToPlayerInformationRecord { get; set; }
     }
 }

@@ -4,7 +4,7 @@ namespace FOF8Test.DataModels
 {
     [IgnoreFirst(1)]
     [DelimitedRecord(",")]
-    class PlayerSeasonRatingsRecord
+    class PlayerRatingsSeasonRecord
     {
         public int RecordNumber { get; set; }
         public int Year { get; set; }

@@ -45,8 +45,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataEnums\Aquire.cs" />
     <Compile Include="DataEnums\College.cs" />
+    <Compile Include="DataEnums\Designation.cs" />
     <Compile Include="DataEnums\PlayerPositionGroup.cs" />
+    <Compile Include="DataEnums\Status.cs" />
     <Compile Include="DataModels\ActiveFreeAgencyRecord.cs" />
     <Compile Include="DataModels\AwardRecord.cs" />
     <Compile Include="DataModels\CareerRecordsRecord.cs" />
@@ -55,7 +58,7 @@
     <Compile Include="DataModels\GameInformationRecord.cs" />
     <Compile Include="DataModels\GameRecordsRecord.cs" />
     <Compile Include="DataModels\PlayerRecord.cs" />
-    <Compile Include="DataModels\PlayerSeasonRatingsRecord.cs" />
+    <Compile Include="DataModels\PlayerRatingsSeasonRecord.cs" />
     <Compile Include="DataModels\Record.cs" />
     <Compile Include="DataModels\PlayerSeasonRecord.cs" />
     <Compile Include="DataModels\PlayerInformationRecord.cs" />

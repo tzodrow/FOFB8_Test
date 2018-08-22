@@ -16,7 +16,7 @@ namespace FOF8Test.DataModels
         public Team Team { get; set; }
         public int InjuryLength { get; set; }
         public string Health { get; set; }
-        public int InjuryType { get; set; }
+        public string InjuryType { get; set; }
         public int Loyalty { get; set; }
         public int PlayForWinner { get; set; }
         public int PersonalityStrength { get; set; }
@@ -25,7 +25,7 @@ namespace FOF8Test.DataModels
         public bool RedFlag { get; set; }
         public bool Mentor { get; set; }
         public int Volatility { get; set; }
-        public Designation Designation { get; set; }
+        public string Designation { get; set; }
         public string Status { get; set; }
         public int YearSigned { get; set; }
         public int Popularity { get; set; }
@@ -239,5 +239,17 @@ namespace FOF8Test.DataModels
         public int PositionDrill { get; set; }
         public int PointerToFreeAgentBlock { get; set; }
         public int PointerToPlayerInformationRecord { get; set; }
+
+        public int MyProperty { get;set; }
+
+        public int MyProperty2 { get; set; }
+        public int MyProperty3 { get; set; }
+        public int MyProperty4 { get; set; }
+        public int MyProperty5 { get; set; }
+        public int MyProperty6 { get; set; }
+        public int MyProperty7 { get; set; }
+        public int MyProperty8 { get; set; }
+        public int MyProperty9 { get; set; }
+        public int MyProperty10 { get; set; }
     }
 }

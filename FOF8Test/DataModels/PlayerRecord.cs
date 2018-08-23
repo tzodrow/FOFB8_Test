@@ -1,6 +1,5 @@
 ﻿using FileHelpers;
 using FOF8Test.DataEnums;
-using TestApplication.DataEnums;
 
 namespace FOF8Test.DataModels
 {

@@ -50,6 +50,7 @@
     <Compile Include="DataModels\ActiveFreeAgencyRecord.cs" />
     <Compile Include="DataModels\AwardRecord.cs" />
     <Compile Include="DataModels\CareerRecordsRecord.cs" />
+    <Compile Include="DataModels\StandingsRecord.cs" />
     <Compile Include="DataModels\CurrentScheduleRecord.cs" />
     <Compile Include="DataModels\DraftPersonalRecord.cs" />
     <Compile Include="DataModels\GameInformationRecord.cs" />
@@ -65,6 +66,10 @@
     <Compile Include="DataModels\PlayersPersonalRecord.cs" />
     <Compile Include="DataModels\PlayoffGameRecordsRecord.cs" />
     <Compile Include="DataModels\RookieRecord.cs" />
+    <Compile Include="DataModels\SeasonRecordsRecord.cs" />
+    <Compile Include="DataModels\StaffHistoryRecord.cs" />
+    <Compile Include="DataModels\StaffRecord.cs" />
+    <Compile Include="DataModels\TeamGameRecordsRecord.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

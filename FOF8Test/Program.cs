@@ -47,6 +47,21 @@ namespace FOF8Test
             var engineRookieRecord = new FileHelperEngine<RookieRecord>();
             var result11 = engineRookieRecord.ReadFile("Datafiles/rookies.csv");
 
+            var engineSeasonRecordsRecord = new FileHelperEngine<SeasonRecordsRecord>();
+            var result12 = engineSeasonRecordsRecord.ReadFile("Datafiles/season_records.csv");
+
+            var engineStaffRecord = new FileHelperEngine<StaffRecord>();
+            var result13 = engineStaffRecord.ReadFile("Datafiles/staff.csv");
+
+            var engineStaffHistoryRecord = new FileHelperEngine<StaffHistoryRecord>();
+            var result14 = engineStaffHistoryRecord.ReadFile("Datafiles/staff_history.csv");
+
+            var engineStandingsRecord = new FileHelperEngine<StandingsRecord>();
+            var result15 = engineStandingsRecord.ReadFile("Datafiles/standings.csv");
+
+            var engineTeamGameRecordsRecord = new FileHelperEngine<TeamGameRecordsRecord>();
+            var result16 = engineTeamGameRecordsRecord.ReadFile("Datafiles/team_game_records.csv");
+
             Console.WriteLine("Please press any key to continue...");
             Console.ReadLine();
         }

@@ -131,3 +131,4 @@ E:\Projects\FOF8Test\FOF8Test\bin\Debug\TestApplication.pdb
 E:\Projects\FOF8Test\FOF8Test\bin\Debug\FileHelpers.dll
 E:\Projects\FOF8Test\FOF8Test\bin\Debug\FileHelpers.xml
 E:\Projects\FOF8Test\FOF8Test\obj\Debug\FOF8Test.csproj.CopyComplete
+E:\Projects\FOF8Test\FOF8Test\obj\Debug\FOF8Test.csprojAssemblyReference.cache
